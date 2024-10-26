@@ -1,0 +1,37 @@
+<style>
+.tooltip {
+  color: #c82f04; 
+  text-decoration: underline; 
+  cursor: help; 
+}
+.tooltip {
+  position: relative;
+}
+
+.tooltip span[role=tooltip] {
+  display: none;
+}
+
+.tooltip:hover span[role=tooltip] {
+  display: block;  
+  position: absolute; 
+  bottom: 2em;
+  left: -6em;
+  width: 15em;
+  padding: 0.5em;
+  z-index: 100;
+  color: #000; 
+  background-color: #ffebe6;
+  border: solid 1px #c32e04;
+  border-radius: 0.2em;
+}
+</style>
+
+
+<br><br><br><br>
+<p>Das 
+   <dfn class="tooltip"> WWW
+     <span role="tooltip">Unter 'WWW' (World Wide Web) versteht man das Internet.</span>
+   </dfn>
+   ist aus dem heutigen Leben nicht mehr wegzudenken!
+</p>

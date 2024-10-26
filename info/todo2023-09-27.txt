@@ -1,0 +1,102 @@
+ERLEDIGT:
+1. Sicherheitskontrolle der Tabelle über die Überschriften, 
+	--> erledigt, Test Online noch
+OFFEN:
+2. ID in Multiroute übernehmen 
+   Offen: -->Tatsächlich noch nötig, für die Planung ? Ja
+
+Kundenportal:
+ERLEDIGT:
+1. Info wenn Daten geändert wurden
+	--> halb, ein Feld hinzufügen_ info_change=1 wenn Info geändert wurde, 0 Wenn gelesen/erledigt, 2 wenn kundendatengeändert wurden
+    --> blinkendes (i) + Hinweis auf der Edit Seite + "gelesen und erledigt" Button hinzufügen_
+
+ERLEDIGT:	
+2. die Punkte "offen" und "Urlaub" nicht nötig
+	--> erledigt
+ERLEDIGT:
+3. ca bei der Uhrzeit mit einbauen
+CA Raus, Hinweis auf neue Mail
+
+
+ERLEDIGT:
+4. in der Liste ein Statusfeld, (i), falls eine Nachricht hinterlegt ist.
+
+
+
+ErLEDIGT: 
+5. Bunte liste einschränken, in nicht Abgeholten Fahrädern in der Vergangenheit ???
+
+
+PRIO2 OFFEN (muss in der nächsten Woche erledigt werden):
+11. Lager
+11.1 Lager
+	1. Wann ist das Fahrrad abgeholt worden (abholtermin_soll)
+	2. Wann ist das Fahrrad ins Lager eingetragen worden (abholtermin_ist)
+	3. Wann ist das Fahrrad ausgetragen worden
+	das alles nur für Fahrräder die abgeholt wurden.
+PRIO2 OFFEN (muss in der nächsten Woche erledigt werden):
+11.2 
+	4. Lagerbestand als CSV downloaden
+
+PRIO2 OFFEN (muss in der nächsten Woche erledigt werden):
+11.3. Anzahl und welche der Abholtermine Anzeigen, bei Kunden wo das Rad noch nicht abgeholt ist.
+		über die Abholid; (oder als Liste für Fahrräder die nicht im Lagerbestand sind und nicht Abgeholt wurden)
+		
+		
+Zeitplanung:
+	Eingabe:
+		Zusatzzeit einplanen: 20min als standart
+		Arbeitsanfang festlegen: 8:00 Standart
+		
+		Tagesanfang und Tagesende: Bonifaciusstraße
+		
+		Schnittstelle zum Import
+		
+06.10.2023
+1. Email soll verschickt werden wenn infos oder der Status oder Adresse geändert wurde
+2. Signatur Abholungen überall
+   brauche das Logo dazu
+   eine signatur.html erstellen
+3. Farbliche änderung sobald der Kunde bestätigt hat, zeige ich wie der Kunde die info bekommt auf meinen PC
+
+4. Lösung finden für automatische Abholzeiten
+	- Jeden Tag bei Bonifaciusstraße anfangen und wieder enden
+	- 20 min dazurechen
+
+5. Liste mit Abholzeiten der Kunden und diese dann mit Klick als Mail zu versenden
+	dazu brauche ich noch Hilfe.
+
+6. Optisch besser gestalten
+	Logo All-Transport reinbringen
+	Links zb: Daneben das Menu mit Submenu
+	- Im und Export
+		Import von Rebike
+		Export für Multiroute
+		Import von Multiroute
+	- Teminplanung
+		Zeitplanung
+		Bestätigungsmail versenden
+		Errinnerungsmail versenden
+		Mail mit Uhrzeit versenden		
+
+	- Auswertung
+		Kundenrückmeldungen
+		
+	- Abholungen
+		Abholscheine drucken
+		Liste für den Fahrer
+		Übersicht Abholungen
+
+	- Lager
+		Lagerbestand aufnehmen
+		Rückgabe der Bikes
+	
+	
+	
+   
+
+
+
+
+ 

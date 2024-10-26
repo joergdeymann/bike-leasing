@@ -1,0 +1,28 @@
+1. Zugang zu Multiroute
+Rasched@all-transport24.de/Multiroute2023!
+
+2. Zugang zum Server ###WP### (siehe auch Whatsapp Datum 15.09.2023)
+https://www.all-transport24.de/wp-admin/
+Rasched-Fazal / Jlwez4G8t4cci6Yf12HFU!
+           das 2. ist ein kleines L oder
+
+3. Zugang zum FTP (siehe auch Whatsapp Datum 15.09.2023)
+Host: w014e411.kasserver.com
+User: f016006c
+PW: NPSfns9msepqbQH3VzCF
+
+4. Zugang zur DB (siehe auch Whatsapp Datum 15.09.2023)
+https://w014e411.kasserver.com/mysqladmin/
+DB: d02fe264
+User: d02fe264
+Host: localhost
+pw: khgAoV6Xkf3qRUbr
+
+5. Zuganng zu SSH
+https://w014e411.kasserver.com/
+SSH Login
+ssh-w014e411
+Passwort: F85GusAYbuPS4d3S
+
+
+

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <title>(DEMO) CSS Tipp: Anklickbare Tooltips nur mit CSS3 – bit01</title>
+        <link href="style.css" type="text/css" rel="stylesheet">
+        <link href="demo.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="header">
+            <a href="http://www.bit01.de/?p=214">« Zurück zum Artikel</a>
+            <a href="http://www.bit01.de/blog/">Zum Blog »</a>
+        </div>
+        <div class="container">
+        	
+            <h1>Demo</h1>
+        
+        	<p>
+            <i class="tooltips">
+                <input id="clickevent_1" type="checkbox">
+                <label for="clickevent_1">Beispieltext</label>
+                <span>
+                    Beschreibung mit <a href="http://bit01.de/" target="_blank">Link</a>!
+                </span>
+            </i>
+            </p>
+            
+            <h2>In einem Text</h2>
+            
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna 
+aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo 
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus 
+est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, <i class="tooltips"><input id="clickevent_2" type="checkbox"><label for="clickevent_2">Beispieltext</label><span>Beschreibung mit <a href="http://bit01.de/" target="_blank">Link</a>!</span></i>
+ sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+ justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        
+        	<h2>Mit :focus</h2>
+            
+            <p>
+            <i class="tooltips-focus">
+                <input id="clickevent_3" type="checkbox">
+                <label for="clickevent_3">Beispieltext</label>
+                <span>
+                    <a href="http://bit01.de/" target="_blank">Link</a> geht nicht!
+                </span>
+            </i>
+            </p>
+        </div>
+    
+</body></html>

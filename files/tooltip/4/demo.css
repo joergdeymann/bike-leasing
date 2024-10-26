@@ -1,0 +1,106 @@
+/**
+*	mit :checked
+*/
+
+.tooltips {
+  position: relative;
+  display: inline;
+  cursor: help;
+  border-bottom:1px dotted;
+}
+.tooltips span {
+  position: absolute;
+  width:140px;
+  color: #FFFFFF;
+  font-size:0.8em;
+  background: #000000;
+  text-align: center;
+  visibility: hidden;
+  padding:5px 8px;
+  border-radius: 6px;
+}
+.tooltips span:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -8px;
+  width: 0; height: 0;
+  border-top: 8px solid #000000;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+.tooltips span a {
+	color:#fff;
+}
+
+.tooltips input {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+} 
+
+.tooltips input:checked ~ span {
+  visibility: visible;
+  opacity: 0.8;
+  bottom: 25px;
+  width:150px;
+  left: 50%;
+  margin-left: -82px;
+  z-index: 999;
+}
+
+/**
+*	mit :focus
+*/
+
+
+.tooltips-focus {
+  position: relative;
+  display: inline;
+  cursor: help;
+  border-bottom:1px dotted;
+}
+.tooltips-focus span {
+  position: absolute;
+  width:140px;
+  color: #FFFFFF;
+  font-size:0.8em;
+  background: #000000;
+  text-align: center;
+  visibility: hidden;
+  padding:5px 8px;
+  border-radius: 6px;
+}
+.tooltips-focus span:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -8px;
+  width: 0; height: 0;
+  border-top: 8px solid #000000;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+.tooltips-focus span a {
+	color:#fff;
+}
+
+.tooltips-focus input {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+} 
+
+.tooltips-focus input:focus ~ span {
+  visibility: visible;
+  opacity: 0.8;
+  bottom: 25px;
+  width:150px;
+  left: 50%;
+  margin-left: -82px;
+  z-index: 999;
+}

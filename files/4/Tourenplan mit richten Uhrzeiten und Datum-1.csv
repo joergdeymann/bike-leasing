@@ -1,0 +1,208 @@
+Name;Adresse;Fahrzeit;Strecke;Ankunft;Abreise;Aufenthaltsdauer;Kommentar;Breitengrad;Längengrad;Zusatz 1;Zusatz 2;Zusatz 3;Zusatz 4;Zusatz 5;PLZ;Ort;Straße
+;;[HH:MM];[km];;;[min];;;;;;;;;;;
+Bonifaciusstraße 160;Bonifaciusstraße 160 45309 Essen;;;;11.10.2023 08:00;;Start;51,471419;7,073083;;;;;;45309;Essen;Bonifaciusstraße 160
+werner.staufer@stauferpat.de;Scheppener Weg 34A 45239 Essen;00:21;16,8;11.10.2023 08:21;11.10.2023 08:41;20;Zwischenziel;51,386566;7,030448;;;;;;45239;Essen;Scheppener Weg 34A
+Stephanie.Peemoeller@yahoo.de;Humboldtstraße 48 40237 Düsseldorf;00:31;31,0;11.10.2023 09:12;11.10.2023 09:32;20;Zwischenziel;51,233909;6,802154;;;;;;40237;Düsseldorf;Humboldtstraße 48
+gtfreund@web.de;Am Kreuzfeld 44 41468 Neuss;00:16;11,1;11.10.2023 09:48;11.10.2023 10:08;20;Zwischenziel;51,161273;6,781123;;;;;;41468;Neuss;Am Kreuzfeld 44
+Neuss_andre@web.de;Korekamp 51 47809 Krefeld;00:21;28,5;11.10.2023 10:29;11.10.2023 10:49;20;Zwischenziel;51,327349;6,612817;;;;;;47809;Krefeld;Korekamp 51
+huffi82@gmx.de;Dyonisiusstraße 154 47798 Krefeld;00:08;6,1;11.10.2023 10:58;11.10.2023 11:18;20;Zwischenziel;51,3307;6,550227;;;;;;47798;Krefeld;Dyonisiusstraße 154
+Kontakt@betreuungen-weiss.de;Hasenwinkel 2 47918 Tönisvorst;00:16;11,4;11.10.2023 11:35;11.10.2023 11:55;20;Zwischenziel;51,296379;6,426425;;;;;;47918;Tönisvorst;Hasenwinkel 2
+a.frankiewicz@icloud.com;Landwehrstraße 4 41747 Viersen;00:15;9,5;11.10.2023 12:10;11.10.2023 12:30;20;Zwischenziel;51,246037;6,382426;;;;;;41747;Viersen;Landwehrstraße 4
+isabella-seegers@gmx.de;Adam-Houx-Straße 16 41372 Niederkruechten;00:17;23,2;11.10.2023 12:48;11.10.2023 13:08;20;Zwischenziel;51,211691;6,167358;;;;;;41372;Niederkruechten;Adam-Houx-Straße 16
+danielschmeier1994@gmail.com;Am Bahnhof 53 41352 Korschenbroich;00:27;32,0;11.10.2023 13:35;11.10.2023 13:55;20;Zwischenziel;51,194918;6,510725;;;;;;41352;Korschenbroich;Am Bahnhof 53
+D.Rath@sozial-holding.de;August-Monforts-Straße 12 16 41065 Mönchengladbach;00:10;6,1;11.10.2023 14:05;11.10.2023 14:25;20;Zwischenziel;51,184938;6,45316;;;;;;41065;Mönchengladbach;August-Monforts-Straße 12 16
+D.Rath@sozial-holding.de;August-Monforts-Straße 12 16 41065 Mönchengladbach;00:00;0,0;11.10.2023 14:25;11.10.2023 14:45;20;Zwischenziel;51,184938;6,45316;;;;;;41065;Mönchengladbach;August-Monforts-Straße 12 16
+cbusch@outlook.de;Nelkenstraße 8 41363 Jüchen;00:18;11,8;11.10.2023 15:04;11.10.2023 15:24;20;Zwischenziel;51,097731;6,462261;;;;;;41363;Jüchen;Nelkenstraße 8
+Danielaperlitz@gmail.com;Walrafsgäßchen 10 41515 Grevenbroich;00:16;14,1;11.10.2023 15:41;11.10.2023 16:01;20;Zwischenziel;51,088225;6,59442;;;;;;41515;Grevenbroich;Walrafsgäßchen 10
+marcell.mueller@rd-heinsberg.de;Siemensstraße 3 52525 Heinsberg;00:30;41,6;11.10.2023 16:31;11.10.2023 16:51;20;Zwischenziel;51,059251;6,107404;;;;;;52525;Heinsberg;Siemensstraße 3
+scheuvens-janis@web.de;Borheggenstraße 8 52538 Gangelt;00:18;17,3;11.10.2023 17:10;11.10.2023 17:30;20;Zwischenziel;50,991507;5,993866;;;;;;52538;Gangelt;Borheggenstraße 8
+ela1404@gmx.de;Feldgenstraße 7 52134 Herzogenrath;00:29;25,7;11.10.2023 17:59;11.10.2023 18:19;20;Zwischenziel;50,858614;6,118937;;;;;;52134;Herzogenrath;Feldgenstraße 7
+f.doenhoff@googlemail.com;Blumenrather Straße 166 52477 Alsdorf;00:11;8,1;11.10.2023 18:31;11.10.2023 18:51;20;Zwischenziel;50,858189;6,181859;;;;;;52477;Alsdorf;Blumenrather Straße 166
+sebastian.paszenda@gmail.com;Weissenburgerstraße 16 52068 Aachen;00:14;13,7;11.10.2023 19:06;11.10.2023 19:26;20;Zwischenziel;50,771704;6,116715;;;;;;52068;Aachen;Weissenburgerstraße 16
+beser@wolkendieb.com;Heinzenstraße 16 52062 Aachen;00:05;2,5;13.10.2023 09:20;13.10.2023 09:40;20;Zwischenziel;50,779521;6,09041;;;;;;52062;Aachen;Heinzenstraße 16
+hamboumysoons@gmail.com;Amyastraße 34 52066 Aachen;00:05;2,9;13.10.2023 09:45;13.10.2023 10:05;20;Zwischenziel;50,758885;6,088198;;;;;;52066;Aachen;Amyastraße 34
+jaqueline_1307@web.de;Lohmühlenstraße 26 52152 Simmerath;00:33;27,1;13.10.2023 10:38;13.10.2023 10:58;20;Zwischenziel;50,605744;6,293515;;;;;;52152;Simmerath;Lohmühlenstraße 26
+domenik1995@web.de;Bahnstraße 16 52399 Merzenich;00:47;42,5;13.10.2023 11:45;13.10.2023 12:05;20;Zwischenziel;50,824676;6,526413;;;;;;52399;Merzenich;Bahnstraße 16
+jenniferschmidt1717@gmail.com;Bahnhofstraße 66 50374 Erftstadt;00:25;26,8;13.10.2023 12:31;13.10.2023 12:51;20;Zwischenziel;50,809733;6,827824;;;;;;50374;Erftstadt;Bahnhofstraße 66
+w.warnecke@brenk-steuerberatung.de;Rheinbacher Straße 38 53919 Weilerswist;00:16;18,5;13.10.2023 13:08;13.10.2023 13:28;20;Zwischenziel;50,714861;6,875813;;;;;;53919;Weilerswist;Rheinbacher Straße 38
+f.osawe@web.de;Sankt Augustiner Straße 81 53225 Bonn;00:26;26,2;13.10.2023 13:55;13.10.2023 14:15;20;Zwischenziel;50,74276;7,121712;;;;;;53225;Bonn;Sankt Augustiner Straße 81
+t.heindrichs@gmx.de;Agathastraße 48 53859 Niederkassel;00:12;8,9;13.10.2023 14:27;13.10.2023 14:47;20;Zwischenziel;50,793041;7,050237;;;;;;53859;Niederkassel;Agathastraße 48
+enca.garcia@outlook.de;Heinestraße 16 53859 Niederkassel;00:10;7,8;13.10.2023 14:58;13.10.2023 15:18;20;Zwischenziel;50,827387;7,005183;;;;;;53859;Niederkassel;Heinestraße 16
+a.o.klein@t-online.de;Pohlhauser Straße 84 42929 Wermelskirchen;00:41;50,2;13.10.2023 15:59;13.10.2023 16:19;20;Zwischenziel;51,143821;7,185217;;;;;;42929;Wermelskirchen;Pohlhauser Straße 84
+vivien.kauffert@gmail.com;Sternstraße 10 42275 Wuppertal;00:21;22,5;13.10.2023 16:41;13.10.2023 17:01;20;Zwischenziel;51,276273;7,208942;;;;;;42275;Wuppertal;Sternstraße 10
+wiebke_voigts@web.de;Kurvenstraße 8a 42399 Wuppertal;00:14;9,6;13.10.2023 17:16;13.10.2023 17:36;20;Zwischenziel;51,249282;7,287607;;;;;;42399;Wuppertal;Kurvenstraße 8a
+d.siebering@t-online.de;Reeswinkeler Weg 54b 58579 Schalksmühle;00:31;31,8;13.10.2023 18:08;13.10.2023 18:28;20;Zwischenziel;51,243311;7,511859;;;;;;58579;Schalksmühle;Reeswinkeler Weg 54b
+udokaiser@gmail.com;Lösselerstraße 121 58644 Iserlohn;00:40;34,0;13.10.2023 19:08;13.10.2023 19:28;20;Zwischenziel;51,35123;7,656821;;;;;;58644;Iserlohn;Lösselerstraße 121
+ineke.manz@icloud.com;Lösseler Straße 17 58644 Iserlohn;00:03;1,8;14.10.2023 09:00;14.10.2023 09:20;20;Zwischenziel;51,365219;7,662997;;;;;;58644;Iserlohn;Lösseler Straße 17
+ec.tuning@gmx;Oestricherstraße 158 58644 Iserlohn;00:04;2,3;14.10.2023 09:24;14.10.2023 09:44;20;Zwischenziel;51,374619;7,66014;;;;;;58644;Iserlohn;Oestricherstraße 158
+Alex.zemlj@gmx.de;Hoppenbeul 12 58640 Iserlohn;00:08;5,8;14.10.2023 09:52;14.10.2023 10:12;20;Zwischenziel;51,403273;7,685006;;;;;;58640;Iserlohn;Hoppenbeul 12
+anke.eltermann@stepcraft-systems.com;An der Beile 2 58708 Menden;00:11;8,2;14.10.2023 10:24;14.10.2023 10:44;20;Zwischenziel;51,441313;7,769742;;;;;;58708;Menden;An der Beile 2
+marpel1@web.de;Siepenstraße 41 59757 Arnsberg;00:18;13,8;14.10.2023 11:02;14.10.2023 11:22;20;Zwischenziel;51,463669;7,915307;;;;;;59757;Arnsberg;Siepenstraße 41
+fbergholz@web.de;Burgstraße 33 59755 Arnsberg;00:06;4,3;14.10.2023 11:29;14.10.2023 11:49;20;Zwischenziel;51,454413;7,956415;;;;;;59755;Arnsberg;Burgstraße 33
+sunny.kaliya@gmail.com;Apothekerstraße 53 59755 Arnsberg;00:03;1,1;14.10.2023 11:52;14.10.2023 12:12;20;Zwischenziel;51,451305;7,965747;;;;;;59755;Arnsberg;Apothekerstraße 53
+petrarothenstein44@gmail.com;Annastraße 9 59755 Arnsberg;00:01;0,5;14.10.2023 12:14;14.10.2023 12:34;20;Zwischenziel;51,448073;7,968508;;;;;;59755;Arnsberg;Annastraße 9
+malbrancheannette@gmail.com;Klosterberg 6 59823 Arnsberg;00:13;18,9;14.10.2023 12:47;14.10.2023 13:07;20;Zwischenziel;51,393233;8,139948;;;;;;59823;Arnsberg;Klosterberg 6
+tobertsybille2@gmail.com;Arfetalstraße 17 57319 Bad Berleburg;01:08;68,1;14.10.2023 14:16;14.10.2023 14:36;20;Zwischenziel;51,015249;8,433514;;;;;;57319;Bad Berleburg;Arfetalstraße 17
+anke.1507@t-online.de;Zu den Grunden 21 57319 Bad Berleburg;00:18;13,7;14.10.2023 14:54;14.10.2023 15:14;20;Zwischenziel;51,045183;8,297122;;;;;;57319;Bad Berleburg;Zu den Grunden 21
+matthias.hochholzer@ast-kanister.de;Mühlenweg 9-32 57339 Erndtebrück;00:14;11,5;14.10.2023 15:29;14.10.2023 15:49;20;Zwischenziel;50,998286;8,260089;;;;;;57339;Erndtebrück;Mühlenweg 9-32
+kevin187will@icloud.com;Bergstraße 55 57339 Erndtebrück;00:04;1,9;14.10.2023 15:53;14.10.2023 16:13;20;Zwischenziel;50,983397;8,256712;;;;;;57339;Erndtebrück;Bergstraße 55
+dominik19910615@gmail.com;Breslauer Straße 42 57339 Erndtebrück;00:03;1,7;14.10.2023 16:16;14.10.2023 16:36;20;Zwischenziel;50,991094;8,245451;;;;;;57339;Erndtebrück;Breslauer Straße 42
+a.dabrowski1977@gmail.com;An der Sang 34 57271 Hilchenbach;00:22;18,1;14.10.2023 16:59;14.10.2023 17:19;20;Zwischenziel;50,9957;8,102473;;;;;;57271;Hilchenbach;An der Sang 34
+iris.bloecher@gmx.net;Am Wäschebach 17 57271 Hilchenbach;00:18;10,1;14.10.2023 17:37;14.10.2023 17:57;20;Zwischenziel;50,992239;8,033472;;;;;;57271;Hilchenbach;Am Wäschebach 17
+kiga@kg-osthelden.de;Kirchhofweg 14a 57223 Kreuztal;00:19;11,2;14.10.2023 18:16;14.10.2023 18:36;20;Zwischenziel;50,976348;7,961553;;;;;;57223;Kreuztal;Kirchhofweg 14a
+goekhanpolat@hotmail.de;Hofbachstraße 77 57078 Siegen;00:15;10,6;14.10.2023 18:52;14.10.2023 19:12;20;Zwischenziel;50,910979;7,997774;;;;;;57078;Siegen;Hofbachstraße 77
+dietergerhard1@t-online.de;Auf der Blashütte 6 57250 Netphen;00:09;6,5;16.10.2023 10:00;16.10.2023 10:20;20;Zwischenziel;50,912067;8,044881;;;;;;57250;Netphen;Auf der Blashütte 6
+fambender@gmx.de;Lahnstraße 108 57250 Netphen;00:08;5,7;16.10.2023 10:28;16.10.2023 10:48;20;Zwischenziel;50,909764;8,10964;;;;;;57250;Netphen;Lahnstraße 108
+info@kb-siegerland.de;Wichernstraße 21 57250 Netphen;00:02;1,0;16.10.2023 10:51;16.10.2023 11:11;20;Zwischenziel;50,91732;8,108947;;;;;;57250;Netphen;Wichernstraße 21
+danielbraach@web.de;Weißbuchstraße 15 57234 Wilnsdorf;00:21;16,0;16.10.2023 11:32;16.10.2023 11:52;20;Zwischenziel;50,812085;8,149518;;;;;;57234;Wilnsdorf;Weißbuchstraße 15
+mathiaskaufmann43@yahoo.com;Westerwaldstraße 45 57299 Burbach;00:12;12,4;16.10.2023 12:05;16.10.2023 12:25;20;Zwischenziel;50,716771;8,13738;;;;;;57299;Burbach;Westerwaldstraße 45
+ulliklaas@t-online.de;Schwalbenweg 2 57299 Burbach;00:01;1,0;16.10.2023 12:27;16.10.2023 12:47;20;Zwischenziel;50,725405;8,136345;;;;;;57299;Burbach;Schwalbenweg 2
+michaele.mueller-classen@transland.de;Schwalbenweg 2 57299 Burbach;00:00;0,0;16.10.2023 12:47;16.10.2023 13:07;20;Zwischenziel;50,725405;8,136345;;;;;;57299;Burbach;Schwalbenweg 2
+30.weber.73@googlemail.com;Am Kalk 3 57290 Neunkirchen;00:20;17,1;16.10.2023 13:28;16.10.2023 13:48;20;Zwischenziel;50,788666;8,006536;;;;;;57290;Neunkirchen;Am Kalk 3
+gruenschlag@t-online.de;Ahornstraße 22 57290 Neunkirchen;00:06;3,4;16.10.2023 13:55;16.10.2023 14:15;20;Zwischenziel;50,779577;7,969356;;;;;;57290;Neunkirchen;Ahornstraße 22
+sellow61@hotmail.de;Heinrich-Schütz Straße 6 57080 Siegen;00:21;15,2;16.10.2023 14:36;16.10.2023 14:56;20;Zwischenziel;50,85501;7,994537;;;;;;57080;Siegen;Heinrich-Schütz Straße 6
+udostremmel@ymail.com;Schlachthausstraße 2 57072 Siegen;00:05;3,5;16.10.2023 15:01;16.10.2023 15:21;20;Zwischenziel;50,867708;8,007169;;;;;;57072;Siegen;Schlachthausstraße 2
+lars.drodten@gmx.net;Numbachstraße 47 57072 Siegen;00:06;3,6;16.10.2023 15:27;16.10.2023 15:47;20;Zwischenziel;50,885093;7,998382;;;;;;57072;Siegen;Numbachstraße 47
+volker.krombach@freenet.de;Seelbacher Weg 85 57072 Siegen;00:04;2,0;16.10.2023 15:52;16.10.2023 16:12;20;Zwischenziel;50,88607;7,976329;;;;;;57072;Siegen;Seelbacher Weg 85
+j.meyer.pilz@googlemail.com;Zum Rohland 9 57258 Freudenberg;00:11;8,2;16.10.2023 16:24;16.10.2023 16:44;20;Zwischenziel;50,886842;7,911543;;;;;;57258;Freudenberg;Zum Rohland 9
+info@obs-solutions.com;In der Wüste 72 57462 Olpe;00:18;22,5;16.10.2023 17:02;16.10.2023 17:22;20;Zwischenziel;51,037543;7,839781;;;;;;57462;Olpe;In der Wüste 72
+alexandra.juette72@gmail.com;Dreslinger Straße 4 51580 Reichshof;00:25;30,5;16.10.2023 17:47;16.10.2023 18:07;20;Zwischenziel;50,909771;7,666166;;;;;;51580;Reichshof;Dreslinger Straße 4
+markusmauel@t-online.de;Flaberger Straße 13a 51766 Engelskirchen;00:26;33,5;16.10.2023 18:34;16.10.2023 18:54;20;Zwischenziel;51,016699;7,453143;;;;;;51766;Engelskirchen;Flaberger Straße 13a
+tobiassch96.ts@gmail.com;Grünewald 1 58849 Herscheid;00:43;38,4;16.10.2023 19:37;16.10.2023 19:57;20;Zwischenziel;51,190399;7,748471;;;;;;58849;Herscheid;Grünewald 1
+il@haerterei-kirchhoff.de;An der Tumpe 15-17 58791 Werdohl;00:22;17,1;18.10.2023 09:10;18.10.2023 09:30;20;Zwischenziel;51,269542;7,720686;;;;;;58791;Werdohl;An der Tumpe 15-17
+z_bas@gmx.de;Stadionstraße 9 58791 Werdohl;00:12;8,0;18.10.2023 09:42;18.10.2023 10:02;20;Zwischenziel;51,25336;7,784167;;;;;;58791;Werdohl;Stadionstraße 9
+rheseler@web.de;Hallenbergstraße 7 58840 Plettenberg;00:16;11,5;18.10.2023 10:18;18.10.2023 10:38;20;Zwischenziel;51,233871;7,87332;;;;;;58840;Plettenberg;Hallenbergstraße 7
+ayten-ersan@t-online.de;Schwanenweg 5 57368 Lennestadt;00:27;23,5;18.10.2023 11:06;18.10.2023 11:26;20;Zwischenziel;51,133342;8,015099;;;;;;57368;Lennestadt;Schwanenweg 5
+meisterjahn1@web.de;Sebastianstraße 4 59846 Sundern (Sauerland);00:33;30,6;18.10.2023 11:59;18.10.2023 12:19;20;Zwischenziel;51,29095;8,036497;;;;;;59846;Sundern (Sauerland);Sebastianstraße 4
+nemet@gmx.de;Rachenberg 17 59846 Sundern (Sauerland);00:02;0,9;18.10.2023 12:21;18.10.2023 12:41;20;Zwischenziel;51,288759;8,040051;;;;;;59846;Sundern (Sauerland);Rachenberg 17
+Ajgeraj1@outlook.com;Hauptstraße 94 59846 Sundern (Sauerland);00:09;6,5;18.10.2023 12:51;18.10.2023 13:11;20;Zwischenziel;51,326925;8,004428;;;;;;59846;Sundern (Sauerland);Hauptstraße 94
+edith_daake@t-online.de;Dorfstraße 11A 58802 Balve;00:16;13,0;18.10.2023 13:28;18.10.2023 13:48;20;Zwischenziel;51,355997;7,892801;;;;;;58802;Balve;Dorfstraße 11A
+magnum-sto@live.de;Zum Braukbach 21 59757 Arnsberg;00:13;10,8;18.10.2023 14:01;18.10.2023 14:21;20;Zwischenziel;51,419082;7,920524;;;;;;59757;Arnsberg;Zum Braukbach 21
+bremke-wiesenhoefer@gmx.de;Masurenweg 3 59755 Arnsberg;00:14;8,3;18.10.2023 14:35;18.10.2023 14:55;20;Zwischenziel;51,450142;7,984159;;;;;;59755;Arnsberg;Masurenweg 3
+Stefaniepalko@web.de;Poststraße 17 59469 Ense;00:09;6,5;18.10.2023 15:05;18.10.2023 15:25;20;Zwischenziel;51,490328;7,999019;;;;;;59469;Ense;Poststraße 17
+bredensteiner@badsassendorf.de;Eichendorffstraße 2(Tagungszentrum) 59505 Bad Sassendorf;00:21;21,6;18.10.2023 15:46;18.10.2023 16:06;20;Zwischenziel;51,584675;8,17098;;;;;;59505;Bad Sassendorf;Eichendorffstraße 2(Tagungszentrum)
+n.struchholtz@gmail.com;Oststraße 1 59609 Anröchte;00:11;9,9;18.10.2023 16:18;18.10.2023 16:38;20;Zwischenziel;51,55271;8,25188;;;;;;59609;Anröchte;Oststraße 1
+kaftanviktor31@gmail.com;Gartenstraße 2a 59581 Warstein;00:16;14,5;18.10.2023 16:54;18.10.2023 17:14;20;Zwischenziel;51,47935;8,332282;;;;;;59581;Warstein;Gartenstraße 2a
+cg1974@gmx.de;Im Winkel 7 59581 Warstein;00:02;1,0;18.10.2023 17:17;18.10.2023 17:37;20;Zwischenziel;51,482486;8,325734;;;;;;59581;Warstein;Im Winkel 7
+lauraaragonmartin@gmail.com;Antoniusstraße 36 59597 Erwitte;00:25;22,5;18.10.2023 18:02;18.10.2023 18:22;20;Zwischenziel;51,635694;8,368047;;;;;;59597;Erwitte;Antoniusstraße 36
+barisderelitalic@icloud.com;Gerberstraße 2 59590 Geseke;00:13;12,3;18.10.2023 18:36;18.10.2023 18:56;20;Zwischenziel;51,644051;8,512104;;;;;;59590;Geseke;Gerberstraße 2
+carina.baumhoegger@gmx.de;Bodelschwingh Straße 7 33154 Salzkotten;00:16;14,3;18.10.2023 19:13;18.10.2023 19:33;20;Zwischenziel;51,642236;8,658911;;;;;;33154;Salzkotten;Bodelschwingh Straße 7
+sabina.brautmeier@gmx.de;Zur Lohne 11 33178 Borchen;00:10;7,7;20.10.2023 09:30;20.10.2023 09:50;20;Zwischenziel;51,672394;8,722781;;;;;;33178;Borchen;Zur Lohne 11
+roemmich.23@gmail.com;Josef-Kremeyer-Ring 11 33014 Bad Driburg;00:26;28,3;20.10.2023 10:16;20.10.2023 10:36;20;Zwischenziel;51,726433;9,008891;;;;;;33014;Bad Driburg;Josef-Kremeyer-Ring 11
+t.kiel-m.zenker@t-online.de;Buchholzstraße 13 32676 Lügde;00:38;35,8;20.10.2023 11:15;20.10.2023 11:35;20;Zwischenziel;51,877941;9,325688;;;;;;32676;Lügde;Buchholzstraße 13
+dpiechnik@begemann-edv.de;Am Aschbach 10 32699 Extertal;00:39;39,9;20.10.2023 12:15;20.10.2023 12:35;20;Zwischenziel;52,06548;9,135378;;;;;;32699;Extertal;Am Aschbach 10
+paulinakrawczyk133@wp.pl;Monikaweg 17 32756 Detmold;00:35;30,5;20.10.2023 13:11;20.10.2023 13:31;20;Zwischenziel;51,947535;8,882499;;;;;;32756;Detmold;Monikaweg 17
+sarah.kespohl@gmx.de;Schlesierweg 15 33758 Schloß Holte-Stukenbrock;00:31;24,9;20.10.2023 14:02;20.10.2023 14:22;20;Zwischenziel;51,895668;8,621445;;;;;;33758;Schloß Holte-Stukenbrock;Schlesierweg 15
+Daniel-Rudolphi@gmx.net;Waldweg 30 33161 Hövelhof;00:17;14,0;20.10.2023 14:39;20.10.2023 14:59;20;Zwischenziel;51,819625;8,676635;;;;;;33161;Hövelhof;Waldweg 30
+christiane.daut@gmx.de;Am Postdamm 3 33378 Rheda-Wiedenbrück;00:26;26,1;20.10.2023 15:26;20.10.2023 15:46;20;Zwischenziel;51,834767;8,357248;;;;;;33378;Rheda-Wiedenbrück;Am Postdamm 3
+wecker.niko@googlemail.com;Hochstraße 13 33332 Gütersloh;00:10;8,2;20.10.2023 15:56;20.10.2023 16:16;20;Zwischenziel;51,898328;8,38018;;;;;;33332;Gütersloh;Hochstraße 13
+f.reschke@mruk.de;Waltemaths Feld A 5 33334 Gütersloh;00:03;1,9;20.10.2023 16:20;20.10.2023 16:40;20;Zwischenziel;51,892979;8,359025;;;;;;33334;Gütersloh;Waltemaths Feld A 5
+robert.armborst1@gmail.com;Waldburgstraße 8 33442 Herzebrock-Clarholz;00:10;9,3;20.10.2023 16:51;20.10.2023 17:11;20;Zwischenziel;51,886376;8,253373;;;;;;33442;Herzebrock-Clarholz;Waldburgstraße 8
+upotthoff@gmx.de;Von-Pfeuffer-Weg 10 33442 Herzebrock-Clarholz;00:09;6,1;20.10.2023 17:21;20.10.2023 17:41;20;Zwischenziel;51,898075;8,212462;;;;;;33442;Herzebrock-Clarholz;Von-Pfeuffer-Weg 10
+aminzul666@gmx.de;Feidiekstraße 9a 48231 Warendorf;00:25;20,2;20.10.2023 18:06;20.10.2023 18:26;20;Zwischenziel;51,925947;7,965588;;;;;;48231;Warendorf;Feidiekstraße 9a
+michael-ehmke@freenet.de;Achtermannstraße 10 33428 Harsewinkel;00:25;22,7;20.10.2023 18:52;20.10.2023 19:12;20;Zwischenziel;51,959789;8,224711;;;;;;33428;Harsewinkel;Achtermannstraße 10
+kiki1975@arcor.de;Obernstraße 5 33775 Versmold;00:15;11,8;20.10.2023 19:27;20.10.2023 19:47;20;Zwischenziel;52,034227;8,198948;;;;;;33775;Versmold;Obernstraße 5
+leonard-werner98@web.de;Clever Straße 27 33790 Halle (Westf );00:14;12,9;21.10.2023 09:30;21.10.2023 09:50;20;Zwischenziel;52,071368;8,31849;;;;;;33790;Halle (Westf );Clever Straße 27
+rosips@t-online.de;Diemkerstraße 171 32139 Spenge;00:19;16,0;21.10.2023 10:09;21.10.2023 10:29;20;Zwischenziel;52,137293;8,445217;;;;;;32139;Spenge;Diemkerstraße 171
+dominic@oberlaender.de.com;Brömmel 4 32547 Bad Oeynhausen;00:35;46,8;21.10.2023 11:05;21.10.2023 11:25;20;Zwischenziel;52,192611;8,836045;;;;;;32547;Bad Oeynhausen;Brömmel 4
+svdmhome@gmail.com;Kolpingweg 1 32429 Minden;00:22;17,6;21.10.2023 11:47;21.10.2023 12:07;20;Zwischenziel;52,283234;8,880117;;;;;;32429;Minden;Kolpingweg 1
+henningholz95@gmail.com;Petershäger Weg 87 32427 Minden;00:05;3,3;21.10.2023 12:12;21.10.2023 12:32;20;Zwischenziel;52,305523;8,868985;;;;;;32427;Minden;Petershäger Weg 87
+sgkran@web.de;Meiers Lööse 2 32469 Petershagen;00:18;15,5;21.10.2023 12:50;21.10.2023 13:10;20;Zwischenziel;52,373246;8,993901;;;;;;32469;Petershagen;Meiers Lööse 2
+kostja.grams@mail.ru;Spechtstraße 27 32339 Espelkamp;00:27;31,0;21.10.2023 13:38;21.10.2023 13:58;20;Zwischenziel;52,38431;8,600253;;;;;;32339;Espelkamp;Spechtstraße 27
+info@heitland-holzkunst.de;Auewiesen 3 32339 Espelkamp;00:05;3,5;21.10.2023 14:03;21.10.2023 14:23;20;Zwischenziel;52,399497;8,59291;;;;;;32339;Espelkamp;Auewiesen 3
+karsten.wuellner31@gmail.com;Weher Straße 56 32369 Rahden;00:08;5,3;21.10.2023 14:32;21.10.2023 14:52;20;Zwischenziel;52,43566;8,626607;;;;;;32369;Rahden;Weher Straße 56
+g.menekshe@wueppenhorst.de;Grenzweg 9 32351 Stemwede;00:14;10,0;21.10.2023 15:06;21.10.2023 15:26;20;Zwischenziel;52,488313;8,55764;;;;;;32351;Stemwede;Grenzweg 9
+carsten.langer@alterswohnsitz-levern.de;Am Heilbad 26 32351 Stemwede;00:19;19,0;21.10.2023 15:45;21.10.2023 16:05;20;Zwischenziel;52,377001;8,454279;;;;;;32351;Stemwede;Am Heilbad 26
+esin.kesgin1974@icloud.com;Alsweder Straße 13A 32312 Lübbecke;00:16;15,7;21.10.2023 16:22;21.10.2023 16:42;20;Zwischenziel;52,309018;8,609204;;;;;;32312;Lübbecke;Alsweder Straße 13A
+bob.harz@gmail.com;Fichtenweg 24A 32609 Hüllhorst;00:06;4,6;21.10.2023 16:49;21.10.2023 17:09;20;Zwischenziel;52,275665;8,635652;;;;;;32609;Hüllhorst;Fichtenweg 24A
+knefi@t-online.de;Langestraße 89 32278 Kirchlengern;00:10;7,1;21.10.2023 17:19;21.10.2023 17:39;20;Zwischenziel;52,226882;8,648969;;;;;;32278;Kirchlengern;Langestraße 89
+lena.gensorowsky@yahoo.com;Herrendienstweg 113 A 32120 Hiddenhausen;00:17;11,8;21.10.2023 17:56;21.10.2023 18:16;20;Zwischenziel;52,143713;8,664835;;;;;;32120;Hiddenhausen;Herrendienstweg 113 A
+Can55955595@hotmail.com;Heidestraße 107 32257 Bünde;00:11;7,1;21.10.2023 18:27;21.10.2023 18:47;20;Zwischenziel;52,183119;8,594761;;;;;;32257;Bünde;Heidestraße 107
+nataljawegmann@gmx.de;Bachstraße 22 49504 Lotte;00:34;52,2;21.10.2023 19:21;21.10.2023 19:41;20;Zwischenziel;52,274088;7,923546;;;;;;49504;Lotte;Bachstraße 22
+kkrebeck@aol.com;Schanzenweg 15 49504 Lotte;00:14;9,5;21.10.2023 19:56;21.10.2023 20:16;20;Zwischenziel;52,341404;7,93657;;;;;;49504;Lotte;Schanzenweg 15
+wagnerannette66@gmail.com;Bergstraße 48 49504 Lotte;00:07;4,2;21.10.2023 20:23;21.10.2023 20:43;20;Zwischenziel;52,315746;7,969241;;;;;;49504;Lotte;Bergstraße 48
+s.konopka@web.de;Schützenstraße 13 48268 Greven;00:28;39,9;23.10.2023 09:15;23.10.2023 09:35;20;Zwischenziel;52,086317;7,616213;;;;;;48268;Greven;Schützenstraße 13
+t.joemann@outlook.de;Schlagholz 54 48165 Münster;00:26;33,0;23.10.2023 10:01;23.10.2023 10:21;20;Zwischenziel;51,910382;7,640455;;;;;;48165;Münster;Schlagholz 54
+bm101@hellweg.de;Loddenheide 3 48155 Münster-Loddenheide;00:09;5,7;23.10.2023 10:31;23.10.2023 10:51;20;Zwischenziel;51,939495;7,648163;;;;;;48155;Münster-Loddenheide;Loddenheide 3
+heike.schellhove@check24.de;Albersloher Weg 10 48155 Münster;00:03;1,8;23.10.2023 10:54;23.10.2023 11:14;20;Zwischenziel;51,95131;7,636485;;;;;;48155;Münster;Albersloher Weg 10
+Liosahin@proton.me;Stadtlohnweg 17 48161 Münster;00:13;7,1;23.10.2023 11:27;23.10.2023 11:47;20;Zwischenziel;51,973255;7,560716;;;;;;48161;Münster;Stadtlohnweg 17
+kiwi.alt@t-online.de;Birkenweg 18 49525 Lengerich;00:27;38,9;23.10.2023 12:15;23.10.2023 12:35;20;Zwischenziel;52,171182;7,854313;;;;;;49525;Lengerich;Birkenweg 18
+meswaran@live.de;Up De Woote 1 49545 Tecklenburg;00:11;10,2;23.10.2023 12:46;23.10.2023 13:06;20;Zwischenziel;52,222541;7,743269;;;;;;49545;Tecklenburg;Up De Woote 1
+kontakt@dr-westerberg.de;Niederdorf 28 49545 Tecklenburg;00:04;2,9;23.10.2023 13:10;23.10.2023 13:30;20;Zwischenziel;52,201132;7,732372;;;;;;49545;Tecklenburg;Niederdorf 28
+horst483@web.de;Horstmersch 6 49545 Tecklenburg;00:06;3,2;23.10.2023 13:37;23.10.2023 13:57;20;Zwischenziel;52,219665;7,732292;;;;;;49545;Tecklenburg;Horstmersch 6
+Sebastian.Altepost@beermann.de;Finkenweg 14 48477 Hörstel;00:15;10,9;23.10.2023 14:12;23.10.2023 14:32;20;Zwischenziel;52,267053;7,628034;;;;;;48477;Hörstel;Finkenweg 14
+sven-frye@freenet.de;Harkenbergstraße 53 48477 Hörstel;00:06;3,5;23.10.2023 14:39;23.10.2023 14:59;20;Zwischenziel;52,285421;7,597279;;;;;;48477;Hörstel;Harkenbergstraße 53
+jutta-reutter@t-online.de;Friedrich- Wilhelm- Straße 76 48477 Hörstel;00:05;4,7;23.10.2023 15:04;23.10.2023 15:24;20;Zwischenziel;52,2796;7,648734;;;;;;48477;Hörstel;Friedrich- Wilhelm- Straße 76
+marionahaus@gmx.de;Arndtstraße 6 49477 Ibbenbüren;00:07;5,6;23.10.2023 15:32;23.10.2023 15:52;20;Zwischenziel;52,271523;7,722433;;;;;;49477;Ibbenbüren;Arndtstraße 6
+leinadtsak@gmail.com;Feuerbachstraße 18 49477 Ibbenbüren;00:04;2,6;23.10.2023 15:57;23.10.2023 16:17;20;Zwischenziel;52,284171;7,702624;;;;;;49477;Ibbenbüren;Feuerbachstraße 18
+bizkitfir@gmail.com;Glücksburger Straße 30a 49479 Ibbenbüren;00:01;0,8;23.10.2023 16:18;23.10.2023 16:38;20;Zwischenziel;52,288092;7,702457;;;;;;49479;Ibbenbüren;Glücksburger Straße 30a
+j.meier@kerkhoff.eu;Bergsiedlung 67 49479 Ibbenbüren;00:04;2,7;23.10.2023 16:43;23.10.2023 17:03;20;Zwischenziel;52,298849;7,687971;;;;;;49479;Ibbenbüren;Bergsiedlung 67
+maria.buescher1308@gmail.com;Weststraße 33 48496 Hopsten;00:15;12,7;23.10.2023 17:18;23.10.2023 17:38;20;Zwischenziel;52,388991;7,605344;;;;;;48496;Hopsten;Weststraße 33
+martin-grolle@gmx.de;Postmeierweg 20 48477 Hörstel;00:16;11,3;23.10.2023 17:54;23.10.2023 18:14;20;Zwischenziel;52,317793;7,558276;;;;;;48477;Hörstel;Postmeierweg 20
+niklasortmeier@web.de;Von-Galen-Straße 16 48477 Hörstel;00:10;7,1;23.10.2023 18:24;23.10.2023 18:44;20;Zwischenziel;52,273002;7,585898;;;;;;48477;Hörstel;Von-Galen-Straße 16
+janine.doeringer@rwth-aachen.de;Seilerstraße 12 48477 Hörstel;00:01;0,4;23.10.2023 18:46;23.10.2023 19:06;20;Zwischenziel;52,274667;7,582129;;;;;;48477;Hörstel;Seilerstraße 12
+sarah.gnjatovic@web.de;Surenburgstraße 144 48429 Rheine;00:09;8,4;23.10.2023 19:16;23.10.2023 19:36;20;Zwischenziel;52,276474;7,467871;;;;;;48429;Rheine;Surenburgstraße 144
+Claudia.Volbers@t-online.de;Kiefernweg 35 48429 Rheine;00:05;2,0;23.10.2023 19:41;23.10.2023 20:01;20;Zwischenziel;52,265659;7,466207;;;;;;48429;Rheine;Kiefernweg 35
+a.vangerrisheim@web.de;Schöffenweg 26 48429 Rheine;00:07;3,4;25.10.2023 09:30;25.10.2023 09:50;20;Zwischenziel;52,291213;7,464869;;;;;;48429;Rheine;Schöffenweg 26
+s.reiske@allinq.de;Röntgenstraße 43a 48432 Rheine;00:06;4,1;25.10.2023 09:56;25.10.2023 10:16;20;Zwischenziel;52,315952;7,436297;;;;;;48432;Rheine;Röntgenstraße 43a
+moosvenn@web.de;Moosvennstraße 40 48429 Rheine;00:04;2,8;25.10.2023 10:21;25.10.2023 10:41;20;Zwischenziel;52,298296;7,436776;;;;;;48429;Rheine;Moosvennstraße 40
+dany.goetting@gmx.de;Hertaweg 4 48431 Rheine;00:08;3,8;25.10.2023 10:49;25.10.2023 11:09;20;Zwischenziel;52,270047;7,448782;;;;;;48431;Rheine;Hertaweg 4
+mircoross@web.de;Hessenweg 88a 48432 Rheine;00:09;5,2;25.10.2023 11:18;25.10.2023 11:38;20;Zwischenziel;52,234169;7,452754;;;;;;48432;Rheine;Hessenweg 88a
+m.niessing@web.de;Vierngrund 2 48432 Rheine;00:04;2,5;25.10.2023 11:42;25.10.2023 12:02;20;Zwischenziel;52,235799;7,483079;;;;;;48432;Rheine;Vierngrund 2
+michelleschmitz1305@icloud.com;Rektor-Kuper-Straße 27 48432 Rheine;00:04;2,8;25.10.2023 12:07;25.10.2023 12:27;20;Zwischenziel;52,221799;7,474898;;;;;;48432;Rheine;Rektor-Kuper-Straße 27
+niehueslaura20@gmail.com;Sepp-Herberger-Straße 16 48485 Neuenkirchen;00:09;8,1;25.10.2023 12:36;25.10.2023 12:56;20;Zwischenziel;52,213793;7,401339;;;;;;48485;Neuenkirchen;Sepp-Herberger-Straße 16
+motto04@gmx.de;Bruktererweg 15 48485 Neuenkirchen;00:08;4,7;25.10.2023 13:05;25.10.2023 13:25;20;Zwischenziel;52,246926;7,372302;;;;;;48485;Neuenkirchen;Bruktererweg 15
+lindamika0103@web.de;Moränenstraße 23 48485 Neuenkirchen;00:06;2,5;25.10.2023 13:31;25.10.2023 13:51;20;Zwischenziel;52,230921;7,359518;;;;;;48485;Neuenkirchen;Moränenstraße 23
+buckel1977@web.de;Moränenstraße 2 48485 Neuenkirchen;00:00;0,3;25.10.2023 13:52;25.10.2023 14:12;20;Zwischenziel;52,232282;7,358293;;;;;;48485;Neuenkirchen;Moränenstraße 2
+vitorcapelo@hotmail.de;Kettelerstraße 29a 48493 Wettringen;00:08;5,5;25.10.2023 14:20;25.10.2023 14:40;20;Zwischenziel;52,20378;7,305842;;;;;;48493;Wettringen;Kettelerstraße 29a
+stbartels@gmx.de;Schweringhook 7 48607 Ochtrup;00:07;3,9;25.10.2023 14:47;25.10.2023 15:07;20;Zwischenziel;52,197575;7,267245;;;;;;48607;Ochtrup;Schweringhook 7
+frank.passlick@gmail.com;Laurenzstraße 99 48607 Ochtrup;00:07;5,6;25.10.2023 15:15;25.10.2023 15:35;20;Zwischenziel;52,208326;7,203184;;;;;;48607;Ochtrup;Laurenzstraße 99
+ingoheitkamp1@gmail.com;Lambertiweg 36b 48607 Ochtrup;00:02;0,6;25.10.2023 15:37;25.10.2023 15:57;20;Zwischenziel;52,208317;7,205725;;;;;;48607;Ochtrup;Lambertiweg 36b
+stefan.achternkamp@googlemail.com;Farnweg 10 48607 Ochtrup;00:03;0,9;25.10.2023 16:01;25.10.2023 16:21;20;Zwischenziel;52,207762;7,21377;;;;;;48607;Ochtrup;Farnweg 10
+nemez2001@googlemail.com;Maximilian-Kolbe-Straße 12 48565 Steinfurt;00:20;19,8;25.10.2023 16:42;25.10.2023 17:02;20;Zwischenziel;52,113777;7,393311;;;;;;48565;Steinfurt;Maximilian-Kolbe-Straße 12
+g-ribbers@t-online.de;Altenberger Straße 123 48565 Steinfurt;00:02;0,9;25.10.2023 17:04;25.10.2023 17:24;20;Zwischenziel;52,111291;7,400855;;;;;;48565;Steinfurt;Altenberger Straße 123
+joerg.pferdmenges@knoll-bau.de;Ludgerusstraße 8 48366 Laer;00:12;8,6;25.10.2023 17:36;25.10.2023 17:56;20;Zwischenziel;52,058537;7,356662;;;;;;48366;Laer;Ludgerusstraße 8
+zeit5547@gmail.com;Krebsstraße 1 48612 Horstmar;00:06;5,6;25.10.2023 18:02;25.10.2023 18:22;20;Zwischenziel;52,080157;7,300343;;;;;;48612;Horstmar;Krebsstraße 1
+walle61@gmx.de;Stikkamp 7 48739 Legden;00:18;17,7;25.10.2023 18:40;25.10.2023 19:00;20;Zwischenziel;52,033276;7,110474;;;;;;48739;Legden;Stikkamp 7
+t.bleker@web.de;Fredericke-Nadig-Straße 4a 48691 Vreden;00:25;23,8;25.10.2023 19:25;25.10.2023 19:45;20;Zwischenziel;52,04392;6,829519;;;;;;48691;Vreden;Fredericke-Nadig-Straße 4a
+svwaning@wolkenpower.de;Seerose 91 48691 Vreden;00:13;9,2;25.10.2023 19:59;25.10.2023 20:19;20;Zwischenziel;52,034391;6,735316;;;;;;48691;Vreden;Seerose 91
+fabian.gebing@web.de;Eschstraße 3B 48691 Vreden;00:12;7,9;27.10.2023 09:25;27.10.2023 09:45;20;Zwischenziel;52,035848;6,810294;;;;;;48691;Vreden;Eschstraße 3B
+chrisauti@gmail.com;Elpidiusstraße 23 46354 Südlohn;00:12;12,3;27.10.2023 09:57;27.10.2023 10:17;20;Zwischenziel;51,946492;6,860551;;;;;;46354;Südlohn;Elpidiusstraße 23
+mz@bikestore-rhede.de;Bahnhofstraße 46 46414 Rhede;00:23;20,3;27.10.2023 10:40;27.10.2023 11:00;20;Zwischenziel;51,836284;6,698562;;;;;;46414;Rhede;Bahnhofstraße 46
+andreasunland@t-online.de;Thüringerstraße 3 46395 Bocholt;00:11;7,8;27.10.2023 11:12;27.10.2023 11:32;20;Zwischenziel;51,830193;6,601302;;;;;;46395;Bocholt;Thüringerstraße 3
+mirsadkrasni9@gmail.com;Elsenpaß 45 46395 Bocholt;00:07;3,5;27.10.2023 11:39;27.10.2023 11:59;20;Zwischenziel;51,840286;6,576181;;;;;;46395;Bocholt;Elsenpaß 45
+sarah@schulte.pm;Schlümersweg 4 46399 Hamminkeln;00:23;21,3;27.10.2023 12:22;27.10.2023 12:42;20;Zwischenziel;51,717817;6,652146;;;;;;46399;Hamminkeln;Schlümersweg 4
+janurbach@yahoo.de;Marsstraße 30 46509 Xanten;00:29;23,6;27.10.2023 13:11;27.10.2023 13:31;20;Zwischenziel;51,660158;6,45538;;;;;;46509;Xanten;Marsstraße 30
+hansvollautomatik@gmail.com;Unterer Hilding 1 46562 Voerde (Niederrhein);00:29;25,6;27.10.2023 14:01;27.10.2023 14:21;20;Zwischenziel;51,58003;6,664573;;;;;;46562;Voerde (Niederrhein);Unterer Hilding 1
+nadinewohlann@web.de;Unter den Ulmen 45 47179 Duisburg;00:15;11,7;27.10.2023 14:36;27.10.2023 14:56;20;Zwischenziel;51,530042;6,764905;;;;;;47179;Duisburg;Unter den Ulmen 45
+fabritz@ufp.de;Carl-Friedrich-Gauß-Straße 11 47475 Kamp-Lintfort;00:20;23,6;27.10.2023 15:17;27.10.2023 15:37;20;Zwischenziel;51,483752;6,531744;;;;;;47475;Kamp-Lintfort;Carl-Friedrich-Gauß-Straße 11
+nikolic@nikolic-rosenke.de;Essener Straße 21 46236 Bottrop;00:26;32,2;27.10.2023 16:03;27.10.2023 16:23;20;Zwischenziel;51,51852;6,927505;;;;;;46236;Bottrop;Essener Straße 21
+anita-lepek@t-online.de;Am Bowengarten 30 45899 Gelsenkirchen;00:13;13,3;27.10.2023 16:36;27.10.2023 16:56;20;Zwischenziel;51,534415;7,029706;;;;;;45899;Gelsenkirchen;Am Bowengarten 30
+nicolebleinik@icloud.com;Schlägelstraße 2 45966 Gladbeck;00:15;9,1;27.10.2023 17:12;27.10.2023 17:32;20;Zwischenziel;51,597805;6,986349;;;;;;45966;Gladbeck;Schlägelstraße 2
+technik@elisabeth-krankenhaus.de;Sandweg 21 45701 Herten;00:17;9,2;27.10.2023 17:49;27.10.2023 18:09;20;Zwischenziel;51,60969;7,093225;;;;;;45701;Herten;Sandweg 21
+kirsten.brill@gmx.de;Everskamp 46 46282 Dorsten;00:14;9,8;27.10.2023 18:24;27.10.2023 18:44;20;Zwischenziel;51,635696;7,016068;;;;;;46282;Dorsten;Everskamp 46
+krzyzymarcel@gmail.com;Kettelerstraße 10 46514 Schermbeck;00:19;15,6;27.10.2023 19:03;27.10.2023 19:23;20;Zwischenziel;51,697896;6,880722;;;;;;46514;Schermbeck;Kettelerstraße 10
+Philipp_niew.1989@web.de;Am Wehrturm 24 48734 Reken;00:20;24,6;27.10.2023 19:43;27.10.2023 20:03;20;Zwischenziel;51,829004;7,045561;;;;;;48734;Reken;Am Wehrturm 24
+siegfriednaegel@t-online.de;Blomenacker 19 46342 Velen;00:13;11,1;28.10.2023 09:00;28.10.2023 09:20;20;Zwischenziel;51,893575;6,969939;;;;;;46342;Velen;Blomenacker 19
+pdobrat19@gmail.com;Kettelerstraße 6 48653 Coesfeld;00:18;16,8;28.10.2023 09:38;28.10.2023 09:58;20;Zwischenziel;51,946244;7,162888;;;;;;48653;Coesfeld;Kettelerstraße 6
+petra.feldmann67@gmx.de;Baurat-Wolters-Straße 9 48653 Coesfeld;00:05;2,9;28.10.2023 10:04;28.10.2023 10:24;20;Zwischenziel;51,92493;7,174016;;;;;;48653;Coesfeld;Baurat-Wolters-Straße 9
+elke@dieker-nottuln.de;Steinstraße 44 48301 Nottuln;00:16;15,5;28.10.2023 10:40;28.10.2023 11:00;20;Zwischenziel;51,922388;7,3589;;;;;;48301;Nottuln;Steinstraße 44
+ulrikegreive@web.de;Grüner Grund 28 48308 Senden;00:15;15,7;28.10.2023 11:15;28.10.2023 11:35;20;Zwischenziel;51,860129;7,489786;;;;;;48308;Senden;Grüner Grund 28
+sippa@live.de;Clemens Hagemann Straße 5a 48308 Senden;00:09;6,8;28.10.2023 11:45;28.10.2023 12:05;20;Zwischenziel;51,823651;7,541778;;;;;;48308;Senden;Clemens Hagemann Straße 5a
+hennewig-sturm@web.de;Erlenstraße 42 59348 Lüdinghausen;00:18;16,9;28.10.2023 12:23;28.10.2023 12:43;20;Zwischenziel;51,766462;7,38312;;;;;;59348;Lüdinghausen;Erlenstraße 42
+daniel.hake@outlook.de;Olfener Straße 8 59348 Lüdinghausen;00:06;4,5;28.10.2023 12:50;28.10.2023 13:10;20;Zwischenziel;51,766606;7,4359;;;;;;59348;Lüdinghausen;Olfener Straße 8
+anni.bauhus@gmx.de;Cappenberger Damm 48 59379 Selm;00:20;18,9;28.10.2023 13:30;28.10.2023 13:50;20;Zwischenziel;51,66164;7,533482;;;;;;59379;Selm;Cappenberger Damm 48
+mtulickas63@gmail.com;Astenweg 2 59425 Unna;00:26;29,1;28.10.2023 14:17;28.10.2023 14:37;20;Zwischenziel;51,560401;7,682428;;;;;;59425;Unna;Astenweg 2
+ThereseCzaplik@web.de;Blumenstraße 3d 59425 Unna;00:02;0,7;28.10.2023 14:39;28.10.2023 14:59;20;Zwischenziel;51,55507;7,683464;;;;;;59425;Unna;Blumenstraße 3d
+kenangirgin@gmail.com;Kurt-Schuhmacher Straße 5 59174 Kamen;00:09;5,7;28.10.2023 15:09;28.10.2023 15:29;20;Zwischenziel;51,583796;7,735517;;;;;;59174;Kamen;Kurt-Schuhmacher Straße 5
+joerg.friebe@gmx.de;Bahnhofstraße 138 59199 Bönen;00:06;4,1;28.10.2023 15:35;28.10.2023 15:55;20;Zwischenziel;51,598276;7,762343;;;;;;59199;Bönen;Bahnhofstraße 138
+dirkwagnerwd@outlook.de;Heideweg 84 59069 Hamm;00:12;10,0;28.10.2023 16:08;28.10.2023 16:28;20;Zwischenziel;51,651141;7,850814;;;;;;59069;Hamm;Heideweg 84
+marenwegener@arcor.de;Barsinghausenstraße 7 44328 Dortmund;00:26;31,1;28.10.2023 16:55;28.10.2023 17:15;20;Zwischenziel;51,551494;7,527274;;;;;;44328;Dortmund;Barsinghausenstraße 7
+britta@stein.nrw;Berghofer Straße 228 44269 Dortmund;00:15;12,1;28.10.2023 17:31;28.10.2023 17:51;20;Zwischenziel;51,475921;7,541768;;;;;;44269;Dortmund;Berghofer Straße 228
+marco.wartenberg@vanderlande.com;Sebrathweg 1 44149 Dortmund;00:17;22,3;28.10.2023 18:08;28.10.2023 18:28;20;Zwischenziel;51,493586;7,397875;;;;;;44149;Dortmund;Sebrathweg 1
+fahrrad@hellweg.de;Zecche Oespel 15 44149 Dortmund;00:03;2,2;28.10.2023 18:32;28.10.2023 18:52;20;Zwischenziel;51,489787;7,37092;;;;;;44149;Dortmund;Zecche Oespel 15
+bernd_fiedler1986@yahoo.de;Liegnitzer Straße 3 58454 Witten;00:09;10,6;28.10.2023 19:01;28.10.2023 19:21;20;Zwischenziel;51,45627;7,350841;;;;;;58454;Witten;Liegnitzer Straße 3
+carina.happeck@bogestra.de;Universitätsstraße 58 44789 Bochum;00:12;11,9;28.10.2023 19:34;28.10.2023 19:54;20;Zwischenziel;51,474436;7,225358;;;;;;44789;Bochum;Universitätsstraße 58
+rademacher-christian@mail.de;Von-der-Recke-Straße 29 44809 Bochum;00:07;3,9;28.10.2023 20:01;28.10.2023 20:21;20;Zwischenziel;51,491672;7,190388;;;;;;44809;Bochum;Von-der-Recke-Straße 29
+j.fessenbecker@st-augustinus.eu;Virchowstraße 135 45886 Gelsenkirchen;00:12;12,1;28.10.2023 20:34;28.10.2023 20:54;20;Zwischenziel;51,495806;7,102137;;;;;;45886;Gelsenkirchen;Virchowstraße 135
+Bonifaciusstraße 160;Bonifaciusstraße 160 45309 Essen;00:09;5,5;28.10.2023 21:04;;;Ziel;51,471419;7,073083;;;;;;45309;Essen;Bonifaciusstraße 160

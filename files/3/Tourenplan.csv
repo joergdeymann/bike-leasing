@@ -1,0 +1,8 @@
+Name;Adresse;Fahrzeit;Strecke;Ankunft;Abreise;Aufenthaltsdauer;Kommentar;Breitengrad;Längengrad;Zusatz 1;Zusatz 2;Zusatz 3;Zusatz 4;Zusatz 5;PLZ;Ort;Straße
+;;[HH:MM];[km];;;[min];;;;;;;;;;;
+Bonifaciusstraße 160, 45309 Essen;Bonifaciusstraße 160 45309 Essen;;;;;;Start;51,471419;7,073083;;;;;;;;
+walle61@gmx.de;Stikkamp 7 48739 Legden;01:01;81,7;;;0;Zwischenziel;52,033276;7,110474;;;;;;48739;Legden;Stikkamp 7
+stefan.achternkamp@googlemail.com;Farnweg 10 48607 Ochtrup;00:26;30,6;;;0;Zwischenziel;52,207762;7,21377;;;;;;48607;Ochtrup;Farnweg 10
+marionahaus@gmx.de;Arndtstraße 6 49477 Ibbenbüren;00:41;56,0;;;0;Zwischenziel;52,271523;7,722433;;;;;;49477;Ibbenbüren;Arndtstraße 6
+kiwi.alt@t-online.de;Birkenweg 18 49525 Lengerich;00:20;17,6;;;0;Zwischenziel;52,171182;7,854313;;;;;;49525;Lengerich;Birkenweg 18
+Bonifaciusstraße 160;Bonifaciusstraße 160 45309 Essen;01:17;120,8;;;;Ziel;51,471419;7,073083;;;;;;45309;Essen;Bonifaciusstraße 160

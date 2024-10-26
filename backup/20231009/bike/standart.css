@@ -1,0 +1,167 @@
+body {
+	background-color: blue;
+	width:100%;
+	margin:0;
+	padding:0;
+	
+}
+
+div#menu {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-box;
+	width: 80%;
+	border: black solid 1px;
+	background-color: silver;
+}
+h1 {
+	margin: 0;
+	text-align: center;
+	background-color:red;
+}
+
+h2#red {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: inline-box;
+	width: 60%;
+	border: 2px solid red;
+	background-color: silver;
+}
+
+div#menu a {
+	color: black;
+	font-weight: 1000;
+	text-decoration: none;
+}
+div#menu a:hover {
+	color: white;
+}
+
+table#liste,table#liste2 {
+	background-color:silver;
+}
+
+table#liste tr:nth-of-type(odd) td {
+	background-color: #999999;
+}
+table#liste,table#liste2 th {
+	background-color: #777777;
+}	
+#color1 {
+	background-color:silver;
+}
+#color0 {
+	background-color:#999999;
+}
+
+form {
+	margin:0;
+	padding:0;
+}
+
+
+#status0 {
+}
+/* Grün: Bestätigt */
+#status1 {
+	background-color: #92d050;
+}
+/* Rot: Abgelehnt */
+#status2 {
+	background-color: red;
+	/* #29211c; */
+}
+/* Gelb/Orange: Versachoben */
+#status3 {
+	background-color: #ffc000;
+}
+/* Blau: Storno / Problemfall */
+#status4 {
+	background-color: #00b0f0;
+}
+
+div#rahmen {
+	/* display:inline-block; */
+	border: 1px red solid;
+	background-color: silver;
+	margin: 5px;
+	padding:5px;
+	font-size: 1.5em;
+}
+div#left {
+	display:inline-block;
+	/* width: 30% */
+	border: 1px red solid;
+	background-color: silver;
+	margin: 5px;
+	padding:5px;
+	font-size: 1.5em;
+	float:right;
+}
+
+div#right {
+	display:inline-block;
+	float:left;
+}
+
+div#radliste, div#adresse {
+	font-size: 1.2em;
+	margin: 5px;padding:5px;
+	display:inline-block;
+	border: 1px solid red;
+}
+div#radliste {
+	/* float: left;*/  
+}
+div#adresse {
+	/* float: left;
+	width: 30%;
+	*/
+}
+div#clear {
+	clear: both;
+}
+
+#std_i {
+	border-radius:50%;
+	border: 1px black solid;
+	display:inline-block;
+	background-color:orange;
+	text-align:center;
+	vertical-align:middle;
+	width:1em;
+	height:1em;
+	padding:2px;
+	margin:0px;
+}
+
+#blink_i {
+    animation-name: animation_blink;
+    animation-timing-function: ease-in;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;            
+	border-radius:50%;
+	border: 1px black solid;
+	display:inline-block;
+	background-color:white;
+	text-align:center;
+	vertical-align:middle;
+	width:1em;
+	height:1em;
+	padding:2px;
+	margin:0px;
+	
+}
+
+@keyframes animation_blink {
+    0% { 
+		background-color: silver; 
+	}
+    50% { 
+		background-color: orange;
+	}
+    100% { 
+		background-color: silver; 
+	}
+}

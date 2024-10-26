@@ -1,0 +1,33 @@
+TODO:
+1. "Infos zum Abholort" eingeben bei dem Kundenportal
+
+2. Abholscheine drucken mit Tag
+	1. Worum gehts ?
+		Abholung im Auftrag von .........
+		Abholung am xx.xx.xxxx
+		Unverbindliche Zeit: ___________
+		Info: ______________________
+			__________________________
+			___________________________
+			__________________________
+
+	2. FahrradDaten
+		FahrradID
+		FahrradName
+
+	3. Ihre Adresse:
+		Name
+		Firma
+		Adresse
+		PLZ Ort
+		
+
+3. Liste mit nicht Abgeholten Rädern und eine info wie oft versucht wurde.
+	Kunde, RadID, Anzahl Abholversuche
+	->Kundendaten, Liste mit RadID, Datum:Abholversuch,(Datum Abholung erfolgt)
+	
+4. Abgeholte Räder eintragen
+5. Momentaner Radbestand +
+6. Abgegebene Räder eintragen (neues feld)
+
+

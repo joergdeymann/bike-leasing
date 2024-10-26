@@ -1,0 +1,118 @@
+<style>
+body {
+	font-family: Arial;
+	font-size: 14px;
+}
+div {
+	display:inline-block;
+}
+div#ALL {
+	display:inline-block;
+	margin-bottom:1px;
+	margin-left:30px;
+	padding-top: 7px;
+	width: 150px;
+	height: 30px;
+	background-color: #000066;
+	color:white;
+	font-size:16px;
+	font-weight:1000;
+	text-align:center;
+	white-space: nowrap;
+	vertical-align: middle;
+	border-top-right-radius: 15px;
+}
+div#TRANSPORT {
+	display:inline-block;
+	margin-top:1px;
+	margin-left:30px;
+	padding-top: 7px;
+	width: 150px;
+	height: 30px;
+	background-color: #E07000;
+	color:#000066;
+	font-size:16px;
+	font-weight:1000;
+	text-align:center;
+	white-space: nowrap;
+	vertical-align: middle;
+	border-bottom-left-radius: 15px;
+}
+#blau {
+	color:#4444FF;
+}
+#silber {
+	color:#999999;
+}
+p#small {
+	text-align:justify;
+	font-size:8px;
+}
+</style>
+
+Guten Tag *vorname* *nachname*,<br><br>
+
+die ungefähre Abholzeit für Ihre Fahrradabholung am *datum* lautet <b><u>*uhrzeit*</u></b> Uhr.<br><br>
+
+<b>Bitte beachten Sie, dass die Uhrzeit aufgrund von unvorhergesehenen Verkehrsereignissen um eine Stunde nach vorne sowie nach hinten abweichen kann.</b><br><br>
+
+Vielen Dank für Ihr Verständnis.  <br><br><br>
+
+
+Mit freundlichen Grüßen <br><br>
+
+<b>Abteilung<br>
+Abholungen</b>
+
+	
+ 
+<table width="500px">
+<tr><td>&nbsp;</td><td><img src="img/mail001.png" alt="Linie senkrecht"></td></tr>
+<tr><td>
+All Transport 24 e.K<br>
+<span id="blau">Bonifaciusstraße 160</span><br>
+<span id="silber">D-45309 Essen<br><br>
+Leider gibt es keine telefonische Erreichbarkeit<br>
+Wir sind nur per Mail erreichbar<br><br>
+
+<table>
+<tr><td>E-Mail:</td><td><a href="mailto:abholungen@All-Transport24.de">abholungen@All-Transport24.de</a></td></tr>
+<tr><td>Web:</td><td><a href="http://www.all-transport24.de">www.all-transport24.de</a></td></tr>
+</table>
+
+</td><td>
+<div id="ALL">ALL</div><br>
+<div id="TRANSPORT">TRANSPORT 24</div>
+</td>
+</tr>
+</tr><td colspan=2>
+<p id="small">All Transport 24 e.K.  Geschäftsführerin Miriam Stamm  Amtsgericht Essen  HRA 10585 Ust-IdNr.  DE308548718</p>
+<img src="img/mail002.png" alt="Linie waagerecht"><br>
+<p id="small">
+Diese E-Mail enthält vertrauliche und/oder rechtliche Informationen. Wenn Sie nicht der richtige Adressat sind, oder diese E-Mail irrtümlich
+erhalten haben, informieren Sie bitte sofort den Absender und vernichten Sie die E-Mail.  Das unerlaubte kopieren, sowie die unbefugte
+Weitergabe dieser E-Mail ist nicht gestattet. Über das Internet versandte  E-Mail können leicht verfälscht oder unter fremden Namen erstellt
+werden. Demzufolge müssen wir Ihrer und unserer Sicherheit die rechtliche Verbindlichkeit der vorstehenden Erklärung ausschließen.
+Der Versand dient somit ausschließlich dem Informationsaustausch.
+</p>
+<p id="small">
+This email may contain conﬁdential or legally privileged information. If you are not the intended recipient or have received this mail by mistake,
+please inform the sender immediatly and destroy this mail. The unauthorised copying as well as distribution of this email is not permitted.
+Emails sent via the internet could easily be altered or issued on behalf of another person. Therefore, for your and our security, we have to
+rule out any legal liability of the aforesaid declaration. The sending of Emails therefore, only serves the purpose of exchanging information
+</p>
+</td></tr>
+</table>
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+
+ 

@@ -1,0 +1,182 @@
+<style>
+nav {
+	display: inline-block;
+	border: 2px solid black;
+	margin-right:20px;
+}
+
+#menu {
+	background: #e07000; /* oben hintergrundfarbe */
+	color: #FFF;
+	height: 45px;
+	padding-left: 18px;
+	border-radius: 10px;
+	white-space: nowrap;
+	width:auto;
+}
+#menu ul, #menu li {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none
+}
+#menu ul {
+	/* width: 100%; */
+}
+#menu li {
+	float: left;
+	display: inline;
+	position: relative;
+	width:130px;
+}
+#menu a {
+	display: block;
+	line-height: 45px;
+	padding: 0 14px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+#menu a.dropdown-arrow:after {
+	content: "\25BE";
+	margin-left: 5px;
+}
+/* Menu Main */
+#menu li a:hover {
+	font-weight:1000;
+	/*font-size: 18px; */
+	color: #000000;
+	/* background: #F2F2F2; */
+}
+#menu input {
+	display: none;
+	margin: 0;
+	padding: 0;
+	height: 45px;
+	width: 100%;
+	opacity: 0;
+	cursor: pointer
+}
+#menu label {
+	display: none;
+	line-height: 45px;
+	text-align: center;
+	position: absolute;
+	left: 35px;
+	border 5px red solid;
+}
+#menu label:before {
+	font-size: 1.6em;
+	content: "\2261"; 
+	margin-left: 20px;
+}
+
+/* untermnues */
+#menu ul.sub-menus {
+	height: auto;
+	overflow: hidden;
+	/* width: 170px; */
+	background: #e07000;
+	position: absolute;
+	z-index: 99;
+	display: none;
+	border:2px solid black;
+	border-top:0px solid black;
+}
+#menu ul.sub-menus li {
+	display: block;
+	width: 100%;
+}
+#menu ul.sub-menus a {
+	color: #FFFFFF;
+	font-size:	 16px;
+}
+#menu li:hover ul.sub-menus {
+	display: block
+}
+/* Sub Menu */
+#menu ul.sub-menus a:hover{
+	/* background: #F2F2F2 ;*/
+	color: #000000;
+	font-size:20px;
+	white-space: nowrap;
+}
+@media screen and (max-width: 800px){
+	#menu {position:relative}
+	#menu ul {background:#111;position:absolute;top:100%;right:0;left:0;z-index:3;height:auto;display:none}
+	#menu ul.sub-menus {width:100%;position:static;}
+	#menu ul.sub-menus a {padding-left:30px;}
+	#menu li {display:block;float:none;width:auto;}
+	#menu input, #menu label {position:absolute;top:0;left:0;display:block}
+	#menu input {z-index:4}
+	#menu input:checked + label {color:white}
+	#menu input:checked + label:before {content:"\00d7"}
+	#menu input:checked ~ ul {display:block}
+}
+h1 {
+	background-color: #000066;
+	color:white;
+	border-radius: 15px;
+	text-align:center;
+
+}
+nav#menu ul li ul#help {
+	background-color: #EEEEEE !important;
+	left: -600px;
+	width: 700px;
+	border: 2px solid black !important;
+	color: black;
+	padding: 0.5em !important;
+	border-radius: 0px 0px 15px 15px !important;
+}
+</style>
+<div>
+<nav id='menu'>
+  <input type='checkbox' checked id='responsive-menu'><!--label>XXXX</label-->
+  <ul>
+    <li><a class='dropdown-arrow' href='http://'>Im und Export</a>
+      <ul class='sub-menus'>
+        <li><a href='http://'>Import von Rebike</a></li>
+        <li><a href='http://'>Export für Multiroute</a></li>
+        <li><a href='http://'>Import von Multiroute</a></li>
+      </ul>
+    </li>
+    <li><a class='dropdown-arrow' href='http://'>Terminplanung</a>
+      <ul class='sub-menus'>
+       <li><a href='http://'>Zeitplanung</a></li>
+        <li><a href='http://'>Bestätigungsmail versenden</a></li>
+        <li><a href='http://'>Errinnerungsmail versenden</a></li>
+        <li><a href='http://'>Mail mit Uhrzeit versenden</a></li>
+      </ul>
+    </li>
+    <li><a class='dropdown-arrow' href='http://'>Auswertung</a>
+      <ul class='sub-menus'>
+        <li><a href='http://'>Kundenrückmeldungen</a></li>
+      </ul>
+    </li>
+    <li><a class='dropdown-arrow' href='http://'>Abholungen</a>
+      <ul class='sub-menus'>
+        <li><a href='http://'>Abholscheine drucken</a></li>
+        <li><a href='http://'>Liste für den Fahrer</a></li>
+        <li><a href='http://'>Übersicht Abholungen</a></li>
+      </ul>
+    </li>
+    <li><a class='dropdown-arrow' href='http://'>Lager</a>
+      <ul class='sub-menus'>
+        <li><a href='http://'>Lagerbestand aufnehmen</a></li>
+        <li><a href='http://'>Rückgabe der Bikes</a></li>
+      </ul>
+    </li>
+    <li><a  href='http://'>?</a>
+      <ul class='sub-menus' id="help">
+		$help_html
+      </ul>
+	</li>
+	
+  </ul>
+  <img style='position:absolute; top:-10; right:10px;' src='img/logo.png'>
+</nav>
+</div>
+<br>
+<b style='width:100%;margin-left:20%;font-size: 1.5em;'>Herzlich Willkommen!</b><br>
+<br style='margin-top:30px'>
+<h1>=>Text</h1>

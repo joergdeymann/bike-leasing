@@ -1,0 +1,8 @@
+div#menu {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-box;
+	width: 80%;
+	border: black solid 1px;
+	background-color: silver;
+}

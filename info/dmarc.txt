@@ -1,0 +1,19 @@
+=============================
+DMARC eintrag für Rasched
+=============================
+
+Sie haben keinen DMARC-Eintrag. Fügen Sie einen 
+TXT 
+_dmarc.all-transport24.de
+v=DMARC1; p=none
+
+================================
+DKIM eintrag wie ?
+================================
+
+================================
+HEADER_FROM_DIFFERENT_DOMAINS		
+================================
+From and EnvelopeFrom 2nd level mail domains are different
+
+https://www.mail-tester.com/test-8nm2j5thj&reloaded=1

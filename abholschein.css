@@ -1,0 +1,86 @@
+nav {
+	margin:0px !important;
+	margin-top:5px !important;
+}
+table#menu_group, table#menu_group td {
+	border: 0px solid white !important;
+	font-family: reset;
+}
+h1#menu{
+	font-family: reset;
+	margin-bottom:20px;
+}
+/*
+html {
+	margin: 100px;
+}
+*/
+
+body {
+	background-color: white;
+	background-image: reset;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+table#input tr td {
+	text-align:left;
+	vertical-align:top;
+	border:1px black solid;
+}
+table#input tr th {
+	text-align:left;
+	vertical-align:top;
+	border:1px black solid;
+	font-weight: 1000;
+	
+}
+table#input {
+	border-collapse: collapse;
+	/* background-color: #EEEEEE;*/
+	background-color: transparent;
+	
+}
+
+@media print {
+	header,nav#menu,#menu_group,#noprint {
+		visibility: hidden;
+		display:none;
+	}
+}
+
+
+/*
+div#menu a {
+	color: black;
+	font-weight: 1000;
+	text-decoration: none;
+}
+div#menu a:hover {
+	color: white;
+}
+
+div#menu {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-box;
+	width: 80%;
+	border: black solid 1px;
+	background-color: silver;
+}
+*/
+/*
+h1#menu {
+	margin-left: auto;
+	margin-right: auto;
+	width:100%; 
+	text-align: center;
+	background-color:red ;
+	margin-top:30px;
+}
+*/
+/*
+h1#menu {
+	margin-top: 30px;
+}
+*/

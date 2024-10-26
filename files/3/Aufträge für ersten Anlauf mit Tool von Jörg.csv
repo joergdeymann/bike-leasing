@@ -1,0 +1,252 @@
+UID;"Firmenname (nur wenn Abholung
+im Unternehmen)";Vorname;Nachname;Straße + HS-NR;PLZ;Ort;Telefonnummer;ggf. Mobilnummer;E-Mailadresse;"Referenznummer
+(Vertragsnummer)";Marke;Modell;Modelljahr;Fahrrad/Pedelec;Rahmennummer;Zubehör
+LR-901317;;Stefan;Bartels;Schweringhook 7;48607;Ochtrup;;15122924889;stbartels@gmx.de;K0554850000343506;Cube;Stereo 120 Race;2022;Fahrrad;WOW02866;kein Zubehör
+LR-901318;;Daniel;Rudolphi;Waldweg 30;33161;Hövelhof;;0152-28576396;Daniel-Rudolphi@gmx.net;S98630000174479;FLYER;Upstreet5 7.10;2021;Pedelec;TFYHZUD21M4931198;kein Zubehör
+LR-901319;;Katharina;Hennewig-Sturm;Erlenstr. 42;59348;Lüdinghausen;;1716446966;hennewig-sturm@web.de;A0307160000373132;Cube;Touring Hybrid EXC;2022;Pedelec;WOW90807KGAU;Pedale, Scheinwerfer, Lenkeradapter, Lenkertasche, Gepäckträgertasche
+LR-901320;HELLWEG die Profi-Baumärkte GmbH & Co. KG;Sergey;Shevnin;Loddenheide 3;48155;Münster-Loddenheide;25129797233;;bm101@hellweg.de;H0624290000322596;Falter;9,3;2022;Pedelec;IGX210131300;kein Zubehör
+LR-901324;HELLWEg die Profi-Baumärkte GmbH & Co. KG;Lukas;Biermanns;Zecche Oespel 15;44149;Dortmund;2319696240;;fahrrad@hellweg.de;H0624290000284854;Riese und Müller;Swing Vario;2022;Pedelec;WRJ2SWNM3LD206595;kein Zubehör
+LR-901325;HELLWEg die Profi-Baumärkte GmbH & Co. KG;Lukas;Biermanns;Zecche Oespel 15;44149;Dortmund;2319696240;;fahrrad@hellweg.de;H0624290000371559;Rose;BACKROAD Rival eTap AXS XPLR 1X12;2022;Fahrrad;KRB08471;Trinkflasche 2x, Taschen set
+LR-901327;;Sarah;Hoffmann;Schlesierweg 15;33758;Schloß Holte-Stukenbrock;;0171 2931695;sarah.kespohl@gmx.de;D0048970000216458;Cannondale;Topstone Lefty Carbon 3;2022;Fahrrad;FC01230;Pedale, 2x Flaschenhalter
+LR-901330;;Kirsten;Brill;Everskamp 46;46282;Dorsten;;0173 9814648;kirsten.brill@gmx.de;C0570210000276890;Cube;Kathmandu Hybrid Pro 625;2022;Pedelec;WOW79486PSNT;Klick Fix Rackpack 1 Plus Racktime
+LR-901333;;Jörg;Römmich;Josef-Kremeyer-Ring 11;33014;Bad Driburg;05251 69411-20;;roemmich.23@gmail.com;I0674460000356293;GIANT;Reign He 29;2021;Fahrrad;G7GA28186;Flaschenhalterung, Pedale
+LR-901334;;Jörg;Römmich;Josef-Kremeyer-Ring 11;33014;Bad Driburg;05251 69411-20;;roemmich.23@gmail.com;I0674460000380701;GIANT;Explore E+ 1 GTS Sport He M;2022;Pedelec;E9GE06208;kein Zubehör
+LR-901339;;Maria;Büscher;Weststraße 33;48496;Hopsten;05458/297;;maria.buescher1308@gmail.com;F0721780000367469;Kalkhoff;Image 1 Move;2022;Pedelec;#650587018;kein Zubehör
+LR-901343;Bochum-Gelsenkirchener Straßenbahnen;Carina;Happeck;Universitätsstraße 58;44789;Bochum;0234-3032367;;carina.happeck@bogestra.de;B0618650000287427;Riese und Müller;Nevo GT vario 625 Kiox;2022;Pedelec;WRJ2NE3M4ND313458;kein Zubehör
+LR-901345;;Andre;Neuss;Korekamp 51;47809;Krefeld;;01590 1942209;Neuss_andre@web.de;K0561740000314234;Multicycle;Voyage Emi 276207;2022;Pedelec;#1049680077;Helm
+LR-901353;;Jan;Urbach;Marsstraße 30;46509;Xanten;;0178 8040340;janurbach@yahoo.de;S0517200000221368;Focus;ATLAS 6.7 EQP;2022;Fahrrad;A1A45013;Handpumpe, Pedale
+LR-901364;;Dominic;Oberländer;Brömmel 4;32547;Bad Oeynhausen;;0151 42876787;dominic@oberlaender.de.com;I0337960000199055;Winora;Yucatan 12 Pro Wave;2021;Pedelec;Av21126787;kein Zubehör
+LR-901366;;Markus;Mauel;Flaberger Str. 13a;51766;Engelskirchen;;0170 7444402;markusmauel@t-online.de;G0204760000049959;Cube;"Stereo Hybrid 120 SL RH 18""";2020;Pedelec;WOW56910PSCS;kein Zubehör
+LR-901374;;Tobias;Schoeben;Grünewald 1;58849;Herscheid;;0172 7782083;tobiassch96.ts@gmail.com;P0074730000238732;Cube;Reaction Hybrid Pro Allroad 625 29er;2022;Pedelec;WOW51283PVET;Pedale
+LR-901385;;Fabian;Gebing;Eschstrasse 3B;48691;Vreden;;01512 4040494;fabian.gebing@web.de;F249560000362821;Multicycle;Solo;2022;Pedelec;Y1G21538;kein Zubehör
+LR-901386;;Fabian;Gebing;Eschstrasse 3B;48691;Vreden;;01512 4040494;fabian.gebing@web.de;F249560000362826;Multicycle;Solo;2022;Pedelec;Y0J47705;kein Zubehör
+LR-901388;;Christiane;Daut;Am Postdamm 3;33378;Rheda-Wiedenbrück;;0176 62597928;christiane.daut@gmx.de;D0044750000273130;Cube;"Reaction Hybr. SL 750 29 17"" Trap sagemetallic ´n´ silver";2022;Pedelec;WOW92364PSNT;Stütze, Fahrradständer, Rücklicht, Griff, Klingel, Lenkerhalter, Schutzblechrücklicht, Schutzblechset, Gepäckträger
+LR-901391;OBS Solutions GmbH;Janna;Maag;In der Wüste 72;57462;Olpe;02761 835 1070;;info@obs-solutions.com;O0242920000247809;Conway;Cairon S 227;2021;Pedelec;CCR21000022890;Contec Leuchtenset
+LR-901392;OBS Solutions GmbH;Janna;Maag;In der Wüste 72;57462;Olpe;02761 835 1070;;info@obs-solutions.com;O0242920000247817;Conway;Cairon S 327;2021;Pedelec;CCR21000029963;SKS Flap Guard, SKS Flap Guard, Contec Leuchtenset
+LR-901974;;Siegfried;Nägel;Blomenacker 19;46342;Velen;;0171 9331904;siegfriednaegel@t-online.de;K0738660000385303;KTM;Macina Aera 671 LFC;2022;Pedelec;KS210814083;kein Zubehör
+LR-901977;;Wiebke Isabel;Voigts;Kurvenstr. 8a;42399;Wuppertal;;0157 57847651;wiebke_voigts@web.de;K0093010000333771;FLYER;Upstreet5 7.10;2022;Pedelec;TFYZZUD22N4958535;Trelock ZR355 150/6 Zusatzkette
+LR-901981;;Laura;Aragon Martin;Antoniusstraße 36;59597;Erwitte;;15155907542;lauraaragonmartin@gmail.com;B130460000294984;Cube;Supreme Hybr. ONE 500 Da28 50cm EE lunar´n´grey;2022;Pedelec;WOW65794XSFT;kein Zubehör
+LR-901982;;Petra;Feldmann;Baurat-Wolters-Str. 9;48653;Coesfeld;02541 87520;;petra.feldmann67@gmx.de;C0241560000042108;Pegasus;Premio evo 10;2022;Pedelec;AA04456284;Schnellspanner
+LR-901984;;Encarnacion;Gernhold;Heinestr. 16;53859;Niederkassel;02208 75135;;enca.garcia@outlook.de;H0084040000276769;Coboc;SEVEN Kallio Comfort;2022;Pedelec;SEMD210131470;Alarmbox, Tacho, Gepäckträger
+LR-901988;;Lena;Gensorowsky;Herrendienstweg 113 A;32120;Hiddenhausen;;0176-31212967;lena.gensorowsky@yahoo.com;S0093370000370618;Kettler;Quadriga P5 RT;2022;Pedelec;KTR2121571;kein Zubehör
+LR-901996;;Stefan;Achternkamp;Farnweg 10;48607;Ochtrup;;1726261640;stefan.achternkamp@googlemail.com;V0395450000299780;Puch;Q 4.8;2022;Pedelec;PH21052250;kein Zubehör
+LR-901999;;Bernd;Fiedler;Liegnitzer Str. 3;58454;Witten;02302 202920;;bernd_fiedler1986@yahoo.de;B0063230000204123;Riese und Müller;Swing3 City - Intuvia;2021;Pedelec;WRJ2SWNM3LD205749;ABUS Zusatzkette 8KS/100 BK
+LR-902006;STEPCRAFT GmbH & Co. KG;Anke;Eltermann;An der Beile 2;58708;Menden;02373 – 1791160;;anke.eltermann@stepcraft-systems.com;S129830000390887;Cube;Kathmandu Hybrid One 750;2023;Pedelec;WOW94297PSFU;Pedale
+LR-902009;;Engin;Cakar;Oestricherstr. 158;58644;Iserlohn;;15153509325;ec.tuning@gmx;G99260000356465;Cube;Reaction Hybrid Pro 625;2022;Pedelec;WOW32392PVLT;kein Zubehör
+LR-902010;;Engin;Cakar;Oestricherstr. 158;58644;Iserlohn;;15153509325;ec.tuning@gmx;G99260000356466;Haibike;XDURO AllMtn 5.0 Flyon;2021;Pedelec;AP19801321;kein Zubehör
+LR-902013;;Sarah;Schulte;Schlümersweg 4;46399;Hamminkeln;;1751716288;sarah@schulte.pm;K0554850000394405;Excelsior;Pearl;2023;Pedelec;SW200985176;Fahrradkorb
+LR-902018;Allinq Networks GmbH;Seghennet;Reiske-Lühn;Röntgenstraße 43a;48432;Rheine;;0170 – 91 67 80 9;s.reiske@allinq.de;A0333780000160913;Vogue;Carry 3;2021;Pedelec;ecc21030822t;kein Zubehör
+LR-902023;;Sven;Frye;Harkenbergstraße 53;48477;Hörstel;;01511 1871384;sven-frye@freenet.de;E0600650000314245;Cube;Reaction Hubrid Pro 625;2022;Pedelec;WOW66054PVKT;kein Zubehör
+LR-902024;;Sven;Frye;Harkenbergstraße 53;48477;Hörstel;;01511 1871384;sven-frye@freenet.de;E0600650000314246;Cube;Reaction Hybrid One 625 29;2022;Pedelec;WOW62739PVKT;kein Zubehör
+LR-902033;;Jennifer;Schmidt;Bahnhofstr. 66;50374;Erftstadt;;0151 72464943;jenniferschmidt1717@gmail.com;L0395870000277164;Babboe;Curve Mountain;2022;Pedelec;AC2584812;Sitzkissenset, Regenverdeck
+LR-902048;;Hans Henning;Holz;Petershäger Weg 87;32427;Minden;;15155286659;henningholz95@gmail.com;K0242200000175928;Bulls;Copperhead EVO 3;2021;Pedelec;AA10148321;kein Zubehör
+LR-902049;WOLKENdieb;Florian;Beser;Heinzenstrasse 16;52062;Aachen;24199036090;;beser@wolkendieb.com;W0526790000325091;Cube;Touring Hybrid EXC;2022;Pedelec;WOW13546KGET;Flaschenhalter
+LR-902052;;Sarah;Gnjatovic;Surenburgstraße 144;48429;Rheine;;1735665463;sarah.gnjatovic@web.de;J138360000403764;Grecos;Eli 2.5;2023;Pedelec;SW210104863;Korbhalter
+LR-902053;;Justine;Heindrichs;Agathastr. 48;53859;Niederkassel;;0174 3462089;t.heindrichs@gmx.de;P0522780000399654;Haibike;Trekking 6;2022;Pedelec;SJ20R5947;Griffe, Federsattelstütze, Flaschenhalter
+LR-902242;;Alexander;Zemljaric;Hoppenbeul 12;58640;Iserlohn;01578/1819820;;Alex.zemlj@gmx.de;V150000000036392;Lapierre;Overvolt AM 6.5;2020;Pedelec;LPA312448;Abus Bordo 6000
+LR-902245;;Florian;Reschke;Waltemaths Feld A 5;33334;Gütersloh;;0175/7694497;f.reschke@mruk.de;M255970000009005;Stevens;E-Lavena;unbekannt;Pedelec;S20DEFZKDL0120;Kein Zubehör,Fahrradschloss 292 Abus
+LR-902249;;Christian;Bender;Lahnstr. 108;57250;Netphen;02738/1653;;fambender@gmx.de;G247060000035124;BMC;Teammachine SLR01 Four;2019;Fahrrad;9R7863406;Ivera Chain
+LR-902251;;Daniel;Kast;Feuerbachstraße 18;49477;Ibbenbüren;0176/34243723;;leinadtsak@gmail.com;K0238780000039923;Specialized;Levo;2018;Fahrrad;WSBC601049422N;SKS X-Blade VR und VR-Schutz,Abus uGrip
+LR-902253;;Robert;Harz;Fichtenweg 24A;32609;Hüllhorst;01525/6125581;;bob.harz@gmail.com;T176880000041150;Bulls;Urban Evo 10;2020;Pedelec;AA81002344;Schloss ABUS
+LR-902255;;Kai;Krebeck;Schanzenweg 15;49504;Lotte;0177/4917290;0157/54002984;kkrebeck@aol.com;N42490000044450;Maxcycles;Townlite II;2020;Fahrrad;SP1911161;Sattelstütze Suntour NCX,Abus Bordo 6050
+LR-902283;;Witali;Ribalow;Zum Braukbach 21;59757;Arnsberg;0176/96766424;;magnum-sto@live.de;I95480000058258;KTM;Macina Race 291;2020;Pedelec;AV19C18544;ABUS Bordo 6300/90
+LR-902292;;Jörg;Meier;Bergsiedlung 67;49479;Ibbenbüren;0162/2829549;;j.meier@kerkhoff.eu;K0286810000059170;Kreidler;Vitality Eco 6 Sport;2020;Pedelec;PDEHT08411;AXA Einsteckkette und Rahmenschloss
+LR-902293;;Anke;Fischer;Zu den Grunden 21;57319;Bad Berleburg;02759/1390;01511/2519372;anke.1507@t-online.de;H109850000059471;Conway;Xyron C427;2020;Pedelec;6A9654168;Gepäckträgertasche,Faltschloss
+LR-902296;;Andrea;Degner;Siepenstr. 41;59757;Arnsberg;01512/9120150;0151/29120150;marpel1@web.de;G99260000059861;Focus;Jam 6.7 Nine;2020;Pedelec;A9M09119;Abus Bordo 6300/90
+LR-902297;;Guido;Ribbers;Altenberger Str. 123;48565;Steinfurt;02552/9979951;0151/41479365;g-ribbers@t-online.de;F119100000060025;Pegasus;Savona Evo 10 K;2020;Pedelec;AA80822874;Packtasche mit i-Rack Adapterplatte,Axa Victroy Schloß Set m. Kette
+LR-902298;;Konstantin;Grams;Spechtstr. 27;32339;Espelkamp;01573/0440321;01573/0440321;kostja.grams@mail.ru;S127980000060124;Raymon;Tourray E 7.0;2020;Pedelec;AV19906197;Sattel-Sattelstütze,Schloß+Kette
+LR-902301;;Robert;Armborst;Waldburgstr. 8;33442;Herzebrock-Clarholz;05245/8789352;01522/8602462;robert.armborst1@gmail.com;G89830000060456;Bulls;LT 27;2020;Fahrrad;AA80801053;"Pedale BBB BPD-36,Lichtset VDO M60,Sigma Tacho BC5.16,Klingel Billy,3M Speichenreflekt. SekuClip,3M Speichenreflekt. SekuClip,SKS 11095 Shockblade 26"" + 27,5"",SKS 11096 X-Blade 26"" + 27,5"",Abus Bordo Combo"
+LR-902308;;Laura;Niehues;Sepp-Herberger-Str. 16;48485;Neuenkirchen;02557/927443;;niehueslaura20@gmail.com;B136390000061168;BBF;Seattle;2020;Pedelec;WECO0012;Schloßkette
+LR-902316;;Michael;Ehmke;Achtermannstrasse 10;33428;Harsewinkel;0160/1694252;;michael-ehmke@freenet.de;P75480000061741;Haibike;Trekking 5.0, HE 60;2020;Pedelec;AV19928113;Sattelstütze Suntour, Sattel Terry,Abus Rahmenschloß mit Einsteckkette
+LR-902319;;Christian;Jäger;Obernstr. 5;33775;Versmold;05423/2864282;;kiki1975@arcor.de;G274630000062204;Haibike;SDURO Trekking 4.0 Herren 60;2020;Pedelec;AV19708725;"XLC 3D Vorbau ST-T15,MRS FidLock The Rail,Suntour Sattelstütze SP12,Federelement ""Hart"" für Suntour,ABUS Bordo Big SH Faltschloss"
+LR-902320;Friedrich-Wilhelm Heitland;Friedrich-Wilhelm;Heitland;Auewiesen 3;32339;Espelkamp;05771/914648;0171/9490705;info@heitland-holzkunst.de;H0316280000062280;Raleigh;Kent 10 Edition;2020;Pedelec;AV19A433379;Suntour Sattelstütze,Klickfix Lenkeradapter E-Bike,AXA Defender Rahmenschloss mit Einsteckkette
+LR-902330;;Tanja;Hoffmann;Ahornstraße 22;57290;Neunkirchen;0176/40530982;;gruenschlag@t-online.de;S0090540000062849;Kellys;TYGON 70;2020;Pedelec;KL29300203;Steckblech,Beleuchtung, Kindersitz, Ständer,ABUS, Kettenschloss
+LR-902333;;Janine;Döringer;Seilerstr. 12;48477;Hörstel;0162/5917188;;janine.doeringer@rwth-aachen.de;B130210000063351;Victoria;eTrekking 7.7;2020;Pedelec;SW190403519;Einsteckkette
+LR-902335;;Esin;Kocadayilar;Alsweder Strasse 13A;32312;Lübbecke;0176/22397225;0176/22397225;esin.kesgin1974@icloud.com;P206130000063445;Victoria;Trekking 8.8;2020;Pedelec;SW190411348;Einsteckkette für vorhandenes Rahmenschloss AXA
+LR-902336;;Jutta;Reutter;Friedrich- Wilhelm- Strasse 76;48477;Hörstel;05451/94230;;jutta-reutter@t-online.de;P0244420000062172;Specialized;Turbo Como 3.0;2020;Pedelec;WSBC002084742P;Schloss Racktime,Racktime System Korb,Abus Einsteckette und Rahmenschloss
+LR-902337;;Dieter;Gerhard;Auf der Blashütte 6;57250;Netphen;01511/1582339;01511/1582339;dietergerhard1@t-online.de;F88850000069799;Haibike;Trekking 7;2020;Pedelec;SJ21068267;Abus uGrip Bordo 5700
+LR-902346;;Werner Alfons;Albers;Stikkamp 7;48739;Legden;02566/905530;0176/41051749;walle61@gmx.de;S98630000063654;Bergamont;E-Horizon Expert 600 Amsterdam;2020;Pedelec;BGM7K19H00566;Axa Defender Set RLC100
+LR-902348;;Daniela;Götting;Hertaweg 4;48431;Rheine;0176/32569177;;dany.goetting@gmx.de;G110750000063721;Stevens;Boulevard Luxe Forma;2020;Fahrrad;S20THLKEK0070;Selle Royal eZone Sattel,Sigma Radcomputer 9.16 ATS,Zefal Flaschenhalter B2,Abus Rahmenschloss 4960 plus Einsteckkette 130cm und Satteltasche
+LR-902352;;Carsten;Gauseweg;Im Winkel 7;59581;Warstein;02902/6770100;;cg1974@gmx.de;E0035390000063840;Mondraker;22 SPE Prime 29;Unbekannt;Pedelec;AV21929829;Abus 6310/90 black
+LR-902353;;Carsten;Gauseweg;Im Winkel 7;59581;Warstein;02902/6770100;;cg1974@gmx.de;E0035390000063852;Mammut;Mammut Sport Da28 Sw50;2019;Pedelec;AV18B12367;Abus 4960 NR BK + ACH6KS/100 BK + ST5950
+LR-902365;;Kevin;Will;Bergstraße 55;57339;Erndtebrück;0174/2142897;0151/54319860;kevin187will@icloud.com;A117810000064490;Raymon;E-Seven Trailray LTD 2.0;2020;Pedelec;AV19201841;Steckschutz, Klingel, Flaschenhalter,Axa 800
+LR-902370;;Debora;Piechnik;Am Aschbach 10;32699;Extertal;05263/1201;;dpiechnik@begemann-edv.de;D0316710000064771;Conway;Cairon S 529 Se;2020;Pedelec;20CAS529100581;Matrix Licht BLS 27,Sks Bleche,Abus Bordo Big
+LR-902371;;Michael;Nießing;Vierngrund 2;48432;Rheine;05975/955730;;m.niessing@web.de;L0039820000064794;Morrison;E 6.0 400wh;2020;Pedelec;BGX18000682;Federsattelstütze,Axa + Kette
+LR-902374;;Dinesh;Eswaran;Up De Woote 1;49545;Tecklenburg;01573/6138816;;meswaran@live.de;D51120000064854;Scott;Genius 960;2020;Fahrrad;GBEA13997;Abus Bordo
+LR-902376;;Andrej;Krikun;Maximilian-Kolbe-Str. 12;48565;Steinfurt;0541/3268312;01522/8684751;nemez2001@googlemail.com;N0210980000065145;Kalkhoff;Endeavour 5. Move Trapez;2020;Pedelec;AV19635873;Einzeltasche Orlando,Axa Defender m. Plug-in-Kette
+LR-902389;;Claudia;Volbers;Kiefernweg 35;48429;Rheine;05971/8009253;;Claudia.Volbers@t-online.de;a0033070000066314;Westland;BasicE7N 400;2020;Pedelec;GE 19116780;Trelock Rahmenschloss mit Anschlusskette
+LR-902402;;Ulrich;Potthoff;Von-Pfeuffer-Weg 10;33442;Herzebrock-Clarholz;01577/1964673;;upotthoff@gmx.de;D0321160000066856;Riese und Müller;Charger3 GT vario, 53 cm, storm blue;2020;Pedelec;WRJ2CH3M4LD404459;Kein Zubehör
+LR-902414;;Lars;Drodten;Numbachstrasse 47;57072;Siegen;01515/4789682;01515/4789682;lars.drodten@gmx.net;S165220000067006;Haibike;Sduro Trekking 8.0;2020;Pedelec;Av19950599;Abus uGrip Bordo 5700/100 Combo
+LR-902415;;Kirsten;Altevogt;Birkenweg 18;49525;Lengerich;05481/82764;;kiwi.alt@t-online.de;P154710000067017;Pegasus;Solero Evo 9;2020;Pedelec;AA91114459;KlickFix Lenkeradaper E,KlickFix Uni City-Korb,Rahmenschloss incl. Einsteckkette
+LR-902416;;Kirsten;Altevogt;Birkenweg 18;49525;Lengerich;05481/82764;;kiwi.alt@t-online.de;P154710000067027;KTM;Cento 10 Plus;2020;Pedelec;KS200101608;KlickFix Phonepad Quad Mini,ABUS Pro Shield 5850 + Adapter Chain 6KS/100 + Bag ST5950
+LR-902421;;Daniel;Braach;Weißbuchstr. 15;57234;Wilnsdorf;02739/3673;;danielbraach@web.de;G0287370000067186;FLYER;Uproc 1 2.10;2020;Pedelec;TFYHZXD19K4900798;Abus Bordo Faltschloss
+LR-902422;;Friedhelm;Knefelkamp;Langestr. 89;32278;Kirchlengern;05223/75249;;knefi@t-online.de;K106670000067187;Cube;KATHMANDU HYBRID EXC 625 WAVE;2020;Pedelec;WOW86795KGCS;ABUS FALTSCHLOSS BORDO LITE 6050
+LR-902428;;Simone;Van der Meijden;Kolpingweg 1;32429;Minden;01590/1192822;0151/65153592;svdmhome@gmail.com;R262710000067272;Cube;Reaction Hybrid SL 625 29'';2020;Pedelec;WOW63832PSBS;Sigma Aura 80 FL/ RL Blaze,Schwalbe Smart Sam Reifen Upgrade 29'',Cube Fahrradständer Universal,Abus Bordo 6000/90
+LR-902431;;Ulrich;Klaas;Schwalbenweg 2;57299;Burbach;01512/6100753;;ulliklaas@t-online.de;T0205600000067598;Conway;C729;2020;Pedelec;20CAC727M0073;Abus Bordo 6000/90
+LR-902434;;Elke;Dieker;Steinstr. 44;48301;Nottuln;02502/3136;01515/6009570;elke@dieker-nottuln.de;K0241720000067729;Gazelle;Ultimate C8;2020;Pedelec;GZ 61238951;Lenkerumbau,Schloßkette zu vorhandenem Rahmenschloß
+LR-902436;;Pawel;Krawczyk;Monikaweg 17;32756;Detmold;01516/6318636;;paulinakrawczyk133@wp.pl;W0191990000068140;Haibike;SDURO HardNine 8.0;2020;Pedelec;H85A49A520-A;Licht,SKS Schutzbleche VR+HR,ständer +Adapter,Haibike Scholss Adapter,Abus Bordo Plus 6005
+LR-902439;AST Kunststoffverarbeitung GmbH;Matthias;Hocholzer;Mühlenweg 9-32;57339;Erndtebrück;;0175/5754336;matthias.hochholzer@ast-kanister.de;A0056240000068257;Ghost;Hybride Teru PT B5.7+;2020;Pedelec;WCR1391445P;Seitenständer,Seitenständer Adapter,Beleuchtung 35 Lux,AXA Foldable Lock 800
+LR-902440;AST Kunststoffverarbeitung GmbH;Matthias;Hocholzer;Mühlenweg 9-32;57339;Erndtebrück;;0175/5754336;matthias.hochholzer@ast-kanister.de;A0056240000068261;Ghost;Hybride Teru PT B3.7+;2020;Pedelec;WCR1390744P;Schutzblech Vorne,Schutzblech Hinten,Seitenständer,Seitenständer Adapter,Beleuchtung 35 Lux,AXA Foldable Lock 800
+LR-902442;;Kenan;Girgin;Kurt-Schuhmacher Str. 5;59174;Kamen;0163/1942156;;kenangirgin@gmail.com;V0194970000068285;Falter;9.0 FL;2020;Pedelec;IGX19066924;Sattel Selle Royal,Norco Doppeltasche,Abus Bordo
+LR-902443;;Kenan;Girgin;Kurt-Schuhmacher Str. 5;59174;Kamen;0163/1942156;;kenangirgin@gmail.com;V0194970000068287;Falter;8.2 RT;2020;Pedelec;WCM00002319R;Sattel Selle Royal,Klickfix Korb incl. Halterung,Abus Protectic
+LR-902460;;Dagmar;Bergholz;Burgstraße 33;59755;Arnsberg;06384/07;01523/4159501;fbergholz@web.de;U62840000069372;KTM;Macina Sport 510;2020;Pedelec;KS91118875;ABUS Bordo 6310
+LR-902462;;Johannes;Meyer-Pilz;Zum Rohland 9;57258;Freudenberg;0171/8353895;01515/2933868;j.meyer.pilz@googlemail.com;S94980000065958;Bulls;Copperhead EVO 2;2020;Pedelec;AA00116391;Abus Bordo
+LR-902469;;Dominik;Jäger;Breslauer Straße 42;57339;Erndtebrück;0173/7925632;;dominik19910615@gmail.com;A117810000070190;Haibike;Sduro FullSeven LT 5.0;2020;Pedelec;AV19B08861;Ständer, Steckschutz, Klingel, Flaschenhalter, Beleuchtung,Abus Bordo 6000
+LR-902475;;Tulickas;Mindaugas;Astenweg 2;59425;Unna;0170/8925429;;mtulickas63@gmail.com;A104160000070591;GIANT;fathom E+3;2020;Pedelec;E1EA4310;Hinterbauständer,Schutzblech VR,Schutzblech HR,Beleuchtung,Tacho SIGMA,ABUS BORDO uGrip
+LR-902482;;Jörg;Friebe;Bahnhofstraße 138;59199;Bönen;02383/966193;;joerg.friebe@gmx.de;V0194970000071320;Raymon;Cross Ray E 8.5;2020;Pedelec;AV19910138;Sattel Selle Royal,Trelock FS380
+LR-902483;;Jochen;Diekmann;Moränenstr. 23;48485;Neuenkirchen;05973/1859;0163/1538279;lindamika0103@web.de;P81170000071424;BBF;Vienna;2020;Pedelec;SW190959585;Schloßsatz
+LR-902484;;Jochen;Diekmann;Moränenstr. 23;48485;Neuenkirchen;05973/1859;0163/1538279;lindamika0103@web.de;P81170000071425;Winora;Sinus IN8;2020;Pedelec;AV18C30316;Schloßsatz
+LR-902485;;Marion;Ahaus;Arndtstraße 6;49477;Ibbenbüren;05451/78334;0152-08966170;marionahaus@gmx.de;F162970000071486;Gazelle;Ultimate C8+ HMB;2020;Pedelec;GZ 61333355;Schlossset AXA
+LR-902486;;Udo;Stremmel;Schlachthausstr. 2;57072;Siegen;01573/4901263;01573/4901263;udostremmel@ymail.com;G247060000071504;Cube;Reaction Hybrid Pro 625;2021;Pedelec;WOW06547PSCS;Schutzbleche,Ständer,Beleuchtung,Strahler,Klingel,Abus Bordo
+LR-902487;;Udo;Stremmel;Schlachthausstr. 2;57072;Siegen;01573/4901263;01573/4901263;udostremmel@ymail.com;G247060000071506;Cube;Town Hybrid EXC 500;2020;Pedelec;WOW54082XSER;Korb,Kette für serienmäßig am Rad verbautes Rahmenschloss
+LR-902495;;Christian;Weber;Am Kalk 3;57290;Neunkirchen;02735/4146;01512/0772085;30.weber.73@googlemail.com;K99620000071988;GIANT;Reign E+ 1 Pro;2020;Pedelec;G1FA07012;GIANT RIDECONTROL PLUS ANT+ E-Bike-Computer,SKS Schutzbleche vorne + hinten,SR SCIENTIA M3 MODERATE LARGE UNISEX Sattel,LED-Batterie-Beleuchtungs-Set BLC 710,ABUS Schloss Bordo Twin Set black inkl. Halter SH
+LR-902496;;Christian;Weber;Am Kalk 3;57290;Neunkirchen;02735/4146;01512/0772085;30.weber.73@googlemail.com;K99620000071993;GIANT;Trance E+ 2 Pro;2020;Pedelec;GBEA01983;GIANT RIDECONTROL PLUS ANT+ E-Bike-Computer,SKS Schutzbleche vorne + hinten,LED-Batterie-Beleuchtungs-Set BLC 710
+LR-902498;;Dirk;Tretbar;Glücksburger Straße 30 a;49479;Ibbenbüren;01522/8610149;;bizkitfir@gmail.com;T0295810000072148;Kalkhoff;Endeavour 5.S Excite;2019;Pedelec;AV18B37349;Abus Rahmenschloß inkl. Kette und Tasche
+LR-902502;Libelle Ideen Haus;Ursula;Klüter;Moosvennstraße 40;48429;Rheine;05971/85520;0162/6095058;moosvenn@web.de;L0330650000072288;Stevens;E-Gadino Forma;2020;Pedelec;S20EHFKJK0050;Abus Rahmenschloss 4960 plus Einsteckkette 100cm und Satteltasche
+LR-902510;;Jörg;Pferdmenges;Ludgerusstr. 8;48366;Laer;01517/3008484;;joerg.pferdmenges@knoll-bau.de;K63770000055257;Velo de Ville;A700;2020;Fahrrad;LA2004A3250;Kein Zubehör
+LR-902514;;Michaela;Müller-Claßen;Schwalbenweg 2;57299;Burbach;0171/7861461;;michaele.mueller-classen@transland.de;T0205600000067769;Bergamont;E-Horizon;2020;Pedelec;GM1873250;Abus Bordo
+LR-902521;;Jörg;Meier;Bergsiedlung 67;49479;Ibbenbüren;0162/2829549;;j.meier@kerkhoff.eu;K0286810000059162;Centurion;E-Fire Sport;2020;Pedelec;WC8279415R;Abus Einsteckkette
+LR-902528;;Patrick;Koll;Feidiekstraße 9a;48231;Warendorf;01520/5464738;;aminzul666@gmx.de;E0054510000066677;GIANT;Explore E+0;2020;Pedelec;EBCA2377;Schlosskette Trelock + Schloss Trelock
+LR-902537;;Selim;Birinci;Heinrich-Schütz Str. 6;57080;Siegen;;0176/22956182;sellow61@hotmail.de;S0090540000024481;Kellys;Theos 50;2020;Pedelec;KL28007259;AXA folable lock 800
+LR-902538;;Celal;Bas;Stadionstr. 9;58791;Werdohl;;0177/2618005;z_bas@gmx.de;V0194970000052220;Cube;Reaction Hybrid Pro 625;2021;Pedelec;WOW63806PSDS;Sattel Selle Gel, Pedale Cube Flat, Abus Bordo 5700
+LR-902541;;Gökhan;Polat;Hofbachstraße 77;57078;Siegen;;0152/38494396;goekhanpolat@hotmail.de;G0186030000031730;Haibike;Hardnine SDURO 7.0;2020;Pedelec;AV19627277;Schutzbleche,Ständer,Abus Faltschloss Bordo
+LR-902543;;Wadim;Wegmann;Bachstrasse 22;49504;Lotte;05404/7009840;0174/9067567;nataljawegmann@gmx.de;A62200000050867;Haibike;HardNine 1,5;2020;Pedelec;AV19549376;Lichtset,Schutzblech vorne,Schutzblech hinten,Fahrradständer,Abus Bordo Faltschloss
+LR-902544;;Adam;Dabrowski;An der Sang 34;57271;Hilchenbach;0160/8530522;;a.dabrowski1977@gmail.com;F0285140000053643;Kellys;Tygon 10;2020;Pedelec;KL29500697;Schloss ABUS BORDO 6000
+LR-902547;;Sergej;Kran;Meiers Lööse 2;32469;Petershagen;05702/8516175;;sgkran@web.de;P206130000057879;Conway;ETS400;2020;Pedelec;D8G05367;"Axa Kettenschloss ""Newton"" pro Moto2+"
+LR-902549;;Mirco;Roß;Hessenweg 88a;48432;Rheine;0179/2926627;;mircoross@web.de;H216050000059986;Cube;Touring Hybrid;2020;Pedelec;wow75978kgmr;Rahmenschloss Set
+LR-902481;;Michael;Lederer;Wiebelsheim 18;91438;Bad Windsheim;0176/81701152;0176/81701152;maigl.lederer@web.de;K67760000071292;Conway;ETR Cairon T600 Herren inkl. Rahmenschloss;2020;Pedelec;20CAT600HL10017;Kette für Rahmenschloss
+LR-902492;;Jeremy;Bleicher;Kirchstraße 3;88690;Uhldingen-Mühlhofen;0176/21432362;;christa.diener@baeckerei-diener.de;B216550000071637;Morrison;E-Cross 6.0;2019;Pedelec;BGX18008544;Gepäckträger + Montage,Vaude Packtasche ( Einzeltasche ),Abus Schloss Kette
+LR-902493;;Ines;Mansfeld;Zeisigweg 12;81827;München;01512/2904524;;i.mansfeld@gmail.com;N272000000071872;Ghost;Square Trekk.4.8;2020;Fahrrad;GDo404108;Abus Bordo
+LR-902494;;Heike;Stopp;Weilerstraße 19;78126;Königsfeld im Schwarzwald;0173/6343696;;heike_1978@gmx.de;E0333930000071986;Bulls;Aminga Eva TR 3;2020;Pedelec;AA00124061;MonkeyLink Lichtset,MonkeyLink Flaschenhalterung,Abus Bordo Combo Lite 6150/85
+LR-902497;;Helmut;Reiske;Im Letten 15;79379;Müllheim;07631/9358656;;helmut.reiske@posteo.de;R0329680000072077;Focus;Thron 6.8 EQP;2020;Pedelec;A9H84440;Bordo Big 6000
+LR-902501;;Daniel;Pergelt;Starnberger Weg 58D;82205;Gilching;089/84007891;0173/9734230;daniel.pergelt@cewe.de;C121890000072281;Centurion;No Pogo R2600i;2021;Pedelec;WC1534274R;Abus Bordo light
+LR-902508;;Heidi;Katz;Hoher-Wacht-Str. 31;71083;Herrenberg;07032/925100;;h.katz@igw-ingenieure.de;I0313720000073590;KTM;Macina Tour 510;2020;Pedelec;K591230526;Klickfixhalter,Gepäckträgertasche,Schloss Abus Ivera
+LR-902511;;Anke Simone;Gerber;Schäfer Str. 27;99867;Gotha;0174/9014900;;gerbera412@web.de;S212250000052827;Morrison;SUB 7.0;2020;Pedelec;BGX18110113;Schloss
+LR-902512;;Matt;Cook;Am Linsenberg 1;55131;Mainz;01525/5851731;01525/5851731;matt.cook@ubisoft.com;U0044110000070191;Bergamont;Horizon 7 Gent;2020;Fahrrad;YJ19081324;AXA LINQ PRO 100/10
+LR-902516;;Michael;Witt;Kantstraße 1;49661;Cloppenburg;0170/5653672;;Mewitt608@gmail.com;W0297000000069703;Lehmkuhl;P3 Deep Wave S;2020;Pedelec;LKAo1209H;Abus Pro Tectic 4960
+LR-902517;;Eridho Buffery;Rollian;Metzer Strasse 46;66117;Saarbrücken;0162/45727043;0162/45727043;eridhobffry@yahoo.com;E55080000070003;GIANT;Revolt E+ Pro;2020;Pedelec;GAEA03939;Kein Zubehör
+LR-902522;;Laszlo;Vigh;Wiesenbader Str. 13;74572;Blaufelden;0179/6142250;0179/6142250;vighlaci99@gmail.com;F0282570000064677;Pegasus;Premio E10 Cross Street;2020;Pedelec;AA80857672;Abus Faltschloss Bordo Combo 6100
+LR-902525;;Michael;Meurer;Hauptsraße 76;56428;Dernbach (Westerwald);01511/5532752;;Michael.Meurer@web.de;K250910000062613;Cube;Reaction C:62 Race;2020;Fahrrad;WOW01303BCGR;Pedale Shimano Pd-M8140,Trelock Lampe Ls 460,Abus 6005/90 Bordo Plus
+LR-902529;;Stefanie;Mödden;Raiffeisenstraße 20;26897;Esterwegen;01575/9616886;;stefanie.moedden@schmees-esterwegen.de;G90970000065488;KTM;Cento 5 RT;2020;Pedelec;KS200202729;Schloßset Axa
+LR-902531;;Corinna;Uhl;Rattstadterstraße 28;73479;Ellwangen (Jagst);07961/9694571;;uhl.tobias@gmx.de;V0248240000064528;KTM;Macina Tour 510;2020;Pedelec;KS91230725;Aufpreis 625 Wh Akku,Aufpreis Suntour NRX Sattelstütze,Trelock Kombi Kettenschloss
+LR-902536;;Francesco;Solda;Salinenstr. 11;76646;Bruchsal;;0172/1697680;emitoni@gmx.de;S0078190000033359;Haibike;SDuro HardNine 3.0;2020;Pedelec;AV19504022;Ständer, Beleuchtung, Faltschloss Trelock FS 380
+LR-902571;;Nadine;Wohlann;Unter den Ulmen 45;47179;Duisburg;;15776621423;nadinewohlann@web.de;E0348540000313792;Specialized;Kenevo Expert;2021;Pedelec;WSBC023001082S;Pedale
+LR-902572;;Nadine;Wohlann;Unter den Ulmen 45;47179;Duisburg;;15776621423;nadinewohlann@web.de;E0348540000313793;Specialized;Turbo Levo;2022;Pedelec;WSBC001051631R;Pedale, Sattel
+LR-902575;;Sebastian;Konopka;Schützenstraße 13;48268;Greven;;0152 08951218;s.konopka@web.de;B0271770000414367;Cube;Nuride Hybrid SLX 750;2023;Pedelec;WOW33290PSKU;Griffe, Sattel
+LR-902577;;Maren;Wegener;Barsinghausenstrasse 7;44328;Dortmund;;01573 4075278;marenwegener@arcor.de;N0416130000427901;Gazelle;Arroyo C7+HMB Elite Spezial;2022;Pedelec;GZ61445823;Lenkeradapter, Korb
+LR-902579;;Maren;Wegener;Barsinghausenstrasse 7;44328;Dortmund;;01573 4075278;marenwegener@arcor.de;N0416130000427902;Bergamont;E-Horizon Expert Gent;2022;Pedelec;BGM7K21F01681;Radtasche
+LR-902580;UFP Deutschland GmbH;Yvonne;Fabritz;Carl-Friedrich-Gauß-Straße 11;47475;Kamp-Lintfort;02842 983 151;;fabritz@ufp.de;U0595140000284265;FLYER;Gotour6 3.41;2022;Pedelec;TFYZZGC22N4900623;Abus Zusatzkette Adaptor Chain 6KS100 100cm / Rahmenschloss im Wert v. 39,90Euro am Rad bereits montiert
+LR-902581;;Stephanie;Peemöller;Humboldtstrasse 48;40237;Düsseldorf;;0173 2748179;Stephanie.Peemoeller@yahoo.de;S0686510000334506;All-City Cycles;Space Horse;2022;Fahrrad;M20120147;Trinkflaschenhalter, Flasche, Glocke, Vorderlicht, Rücklicht, Pedale
+LR-902585;Rettungsdienst im Kreis Heinsberg gGmbH;Marcell;Müller;Siemensstr. 3;52525;Heinsberg;02452-133819;0170-9248919;marcell.mueller@rd-heinsberg.de;R0398640000173782;FLYER;Gotour6 7.10 Gents L;2021;Pedelec;TFYHZGC21M4902284;kein Zubehör
+LR-902589;;Thomas;Seegers;Adam-Houx-Straße 16;41372;Niederkruechten;21613500;;isabella-seegers@gmx.de;S94980000321968;Riese und Müller;Swing Silent;2022;Pedelec;WRJ2SWNM3MD215236;kein Zubehör
+LR-902599;CHECK24 Vergleichsportal Shopping GmbH;Heike;Schellhove;Albersloher Weg 10;48155;Münster;089 200047-4857;;heike.schellhove@check24.de;C0589850000355275;Riese und Müller;Nevo GT vario;2022;Pedelec;WRJ2NE3M4MD333678;kein Zubehör
+LR-902606;;Monika;Zenker-Kiel;Buchholzstraße 13;32676;Lügde;05283 948964;;t.kiel-m.zenker@t-online.de;S0650270000322716;GIANT;Stance E+ EX;2022;Pedelec;G4HA00175;Sattelstütze
+LR-902614;;Gerd Thomas;Freund;Am Kreuzfeld 44;41468;Neuss;21317735152;;gtfreund@web.de;O0408650000121720;GIANT;Explore E+1Pro;2021;Pedelec;E7FE05631;kein Zubehör
+LR-902616;;Gerd Thomas;Freund;Am Kreuzfeld 44;41468;Neuss;21317735152;;gtfreund@web.de;O0408650000121721;Pegasus;Strong ECO 10;2021;Pedelec;AA00751700;Korb I-Rack
+LR-902617;;Nico;Wecker;Hochstraße 13;33332;Gütersloh;;0176 34465777;wecker.niko@googlemail.com;K0734830000430106;Cube;Two 15 Race;2022;Fahrrad;WOW03287PTNT;kein Zubehör
+LR-902632;;Enrico;Huff;Dyonisiusstr. 154;47798;Krefeld;;0172 9197734;huffi82@gmx.de;S153370000379042;HOHEACHT;Mola Terra 7296;2022;Pedelec;HAF22010250L;kein Zubehör
+LR-902633;;Thorsten;Joemann;Schlagholz 54;48165;Münster;;01512 8878215;t.joemann@outlook.de;G0467820000150360;Morrison;SUB 6.0;2021;Pedelec;IGX20063908;kein Zubehör
+LR-902634;;Lio;Sahin;Stadtlohnweg 17;48161;Münster;;01590 1727177;Liosahin@proton.me;F0840930000508759;Riese und Müller;Charger4 GT vario;2023;Pedelec;WRJ2CH4M4ND204793;Bosch Cockpit
+LR-902635;;Frieda;Osawe-Biser;Sankt Augustiner Straße 81;53225;Bonn;;1755555853;f.osawe@web.de;S0462430000184405;Bergamont;E-Horizon FH 500 Wave Belt;2021;Pedelec;BGM21C06683;Racktime Korb Bask it Black L
+LR-902647;;Andre;Egbers;Moränenstraße 2;48485;Neuenkirchen;;17645178363;buckel1977@web.de;S0376050000318460;Kreidler;Eco 7;2022;Pedelec;PDEIL08757;kein Zubehör
+LR-902648;Langer Familienbeteiligungsgesellschaft mbH;Carsten;Langer;Am Heilbad 26;32351;Stemwede;574596980;;carsten.langer@alterswohnsitz-levern.de;L0614250000444710;KTM;Macina Kapoho 7971;2022;Pedelec;K8220316673;Schutzbleche
+LR-902656;Tagungs- und Kongresszentrum Bad Sassendorf GmbH;Olaf;Bredensteiner;Eichendorffstraße 2 (Tagungszentrum);59505;Bad Sassendorf;02921-94334-30;;bredensteiner@badsassendorf.de;T0661100000420818;Cube;Nuride Hybid Pro 750 Allroad He28 62cm black´n´metal;2023;Pedelec;WOW26866PSMU;Gepäckträger, Pedale, Speichenreflektoren
+LR-902657;;Daniel;Hake;Olfener Straße 8;59348;Lüdinghausen;;0174 637 547 0;daniel.hake@outlook.de;V0395450000198351;Stevens;Cross Camino Pro;2022;Fahrrad;S22RBBFLM1049;Flaschenhalter, Satteltaschen, Satteltaschenstabilisator, Fahrradcomputer, Klingel, Pedale
+LR-902658;BikeStore Rhede;Matthias;Zeegers;Bahnhofstraße 46;46414;Rhede;02872-9535900;;mz@bikestore-rhede.de;A0205320000309708;Bergamont;E-Horizon Sport;2022;Pedelec;BGM7K21L02672;Handyhalterung
+LR-902659;;Daniel;Schmeier;Am Bahnhof 53;41352;Korschenbroich;;15123684492;danielschmeier1994@gmail.com;G0736740000374250;Kalkhoff;Entice 7.b Advance + ID99699;2022;Pedelec;AV22623134;Packtaschen, Cockpithalter
+LR-902662;;Annette;Frankiewicz;Landwehrstr. 4;41747;Viersen;;01522 4029933;a.frankiewicz@icloud.com;S153370000323743;Cube;"Reaction Hybrid SL 750 Allroad 29 black n metal 23""";2022;Pedelec;WOW22860PSLT;Pedale
+LR-902665;Nikolić+Rosenke GmbH;Zoran;Nikolic;Essener Straße 21;46236;Bottrop;02041 7712797;;nikolic@nikolic-rosenke.de;N0719820000356365;GIANT;Trance X Advanced E 0;2022;Pedelec;G9GF04498;kein Zubehör
+LR-902673;;Christian;Rademacher;Von-der-Recke-Str. 29;44809;Bochum;0234-9041166;01573 0033279;rademacher-christian@mail.de;M0068320000232670;Bulls;Copperhead Er37;;;AA10150217;Beleuchtung
+LR-902674;;Christian;Rademacher;Von-der-Recke-Str. 29;44809;Bochum;0234-9041166;01573 0033279;rademacher-christian@mail.de;M0068320000232671;Bulls;Copperhead EVO 1 29;2021;Pedelec;AA10139672;Beleuchtung
+LR-902683;;Andre;Van Gerrisheim;Schöffenweg 26;48429;Rheine;;0160-6347336;a.vangerrisheim@web.de;B64260000322452;Zemo;ZE10-625;2022;Pedelec;ZM000139;Lenkertasche Classic Klickfix , Klick-Fix-Lenkerhalter
+LR-902684;;Werner;Staufer;Scheppener Weg 34A;45239;Essen;0201 52099631;;werner.staufer@stauferpat.de;K0289070000413127;Riese und Müller;Homage GT Rohloff;2023;Pedelec;WRJ2HM4M4PD100373;kein Zubehör
+LR-902685;;Werner;Staufer;Scheppener Weg 34A;45239;Essen;0201 52099631;;werner.staufer@stauferpat.de;K0289070000413128;Riese und Müller;Superdelite GT Rohloff;2023;Pedelec;WRJ2DE4MND103420;kein Zubehör
+LR-902686;;Pia;Niewerth;Am Wehrturm 24;48734;Reken;;0173 7020135;Philipp_niew.1989@web.de;K0401760000139358;KTM;Macina Chacana;2021;Pedelec;AV19A15063;kein Zubehör
+LR-902689;;Tobias;Bleker;Fredericke-Nadig-Str. 4a;48691;Vreden;;0152 01682730;t.bleker@web.de;R0528800000256942;Focus;THRON 6.9 H47cm;2022;Fahrrad;A1608383;Lampenset, Hinterbauständer
+LR-902693;;Leonard;Werner;Clever Straße 27;33790;Halle (Westf.);;0176 76853413;leonard-werner98@web.de;G0477170000260572;Cube;Reaction Hybrid One;2022;Pedelec;WOW45967PVET;kein Zubehör
+LR-902694;;Leonard;Werner;Clever Straße 27;33790;Halle (Westf.);;0176 76853413;leonard-werner98@web.de;G0477170000260574;Cube;Nuride Hybrid Pro;2022;Pedelec;WOW37036PSFT;kein Zubehör
+LR-902702;;Frederic;Dönhoff;Blumenrather Str 166;52477;Alsdorf;;0176-70793202;f.doenhoff@googlemail.com;E0616810000336999;Kalkhoff;Entice 3.B Advance;2021;Pedelec;A0L20717;Räder
+LR-902703;Vanderlande Industries GmbH & Co. KG;Marco;Wartenberg;Sebrathweg 1;44149;Dortmund;23197942245;15168928424;marco.wartenberg@vanderlande.com;V0098320000351571;Cube;Cross Race c68x SLT;2022;Fahrrad;WOW00134PSMT;Fahrradtasche Frame Bag 4 , Cube Pedale Slasher red
+LR-902706;;Ineke;Manz;Lösseler Str. 17;58644;Iserlohn;;17632631019;ineke.manz@icloud.com;S0445690000254107;Haibike;Alltrail 5 29;2022;Pedelec;AV21319300;Licht
+LR-902712;;Nico;Struchholtz;Oststraße 1;59609;Anröchte;;01520 2158215;n.struchholtz@gmail.com;I0674460000363925;Cube;Nuride Hyb.Perf 625 Allroad He28 58cm graphite´n´black;2022;Pedelec;WOW36267KGGT;Flaschenhalter, Griffe, Pedale
+LR-902716;;Marcel;Krzyzyk;Kettelerstraße 10;46514;Schermbeck;;01525-3169494;krzyzymarcel@gmail.com;S0552350000287458;Pegasus;Savino Evo 5R;2022;Pedelec;AA10800353;Spiegel
+LR-902727;Wüppenhorst Entsorgungsbetriebe GmbH;Gjevat;Menekshe;Grenzweg 9;32351;Stemwede;57739911186;;g.menekshe@wueppenhorst.de;W0613710000263401;Haibike;Trekking 9;2022;Pedelec;H1LHM0366;Abus Satteltasche ST 5950 2.0
+LR-902736;;Viktor;Kaftan;Gartenstraße 2a;59581;Warstein;;0151-68401719;kaftanviktor31@gmail.com;E0035390000371961;BESV;TRX 1.3;2022;Pedelec;WITT2008504T;kein Zubehör
+LR-902740;;Michaela;Guske;Feldgenstr. 7;52134;Herzogenrath;02406 8099890;;ela1404@gmx.de;3,00486900001218E+016;Cube;Town Sport Hybrid EXC;2021;Pedelec;WOW50379XSDR;Fahrradkorb RACKTIME Gepäcktragerkorb Baskit Trunk mit SnapIt Adapter
+LR-902745;;Daniela;Siebering;Reeswinkeler Weg 54b;58579;Schalksmühle;02355 1546;;d.siebering@t-online.de;S0561600000295453;Cube;ReactionHybrid Perf 500 Allr 29 Tr;2022;Pedelec;WOW13643PVDT;kein Zubehör
+LR-902749;;Ulrike;Greive;Grüner Grund 28;48308;Senden;;17651197488;ulrikegreive@web.de;A0570000000338116;Velo de Ville;AEB 890 5-Gang Nexus RT;2022;Pedelec;LA2205M10404;kein Zubehör
+LR-902750;;Dirk;Wagner;Heideweg 84;59069;Hamm;;01590/1276889;dirkwagnerwd@outlook.de;R0185920000350057;Gazelle;Arroyo Elite C5;2022;Pedelec;GZ61837329;Vaude Aqua Back black
+LR-900364;;Mirjan;Wiesenhöfer;Masurenweg 3;59755;Arnsberg;0151/15761784;;bremke-wiesenhoefer@gmx.de;K229530000027808;Bergamont;E- Revox 4;;;BGM7K19E001496;
+LR-900366;;Domenik;Greuel;Bahnstraße 16;52399;Merzenich;01517/0244014;;domenik1995@web.de;Q0226120000031916;Centurion;Lhasa E R850i;;;WC1530463R;
+LR-900367;;Domenik;Greuel;Bahnstraße 16;52399;Merzenich;01517/0244014;;domenik1995@web.de;Q0226120000031917;Diamant;Mandara +;;;WTU290JV0285P;
+LR-900368;;Udo;Kaiser;Lösselerstr. 121;58644;Iserlohn;02374/505373;;udokaiser@gmail.com;F137820000031979;Cube;Stereo Hybrid 160 SL 625;;;WOW23394LYR;
+LR-900372;;Britta;Stein;Berghofer Str. 228;44269;Dortmund;0177/4364819;;britta@stein.nrw;T0048710000032972;i:SY;N3.8 ZR;;;HHB00201135;
+LR-900374;;Christian;Czaplik;Blumenstr 3d;59425;Unna;0163/1314959;0163/1314959;ThereseCzaplik@web.de;G55130000034671;Pegasus;Solero E8;;;AA80857436;
+LR-900375;;Anja;Andrenacci;Kirchhofweg 14a;57223;Kreuztal;02732/12616;;kiga@kg-osthelden.de;S0194610000035225;Conway;E Cairon C327;;;20CAC327100315;
+LR-900376;;Anja;Andrenacci;Kirchhofweg 14a;57223;Kreuztal;02732/12616;;kiga@kg-osthelden.de;S0194610000035235;Conway;E Cairon C327;;;20CAC327100236;
+LR-900377;;Ingo;Heitkamp;Lambertiweg 36b;48607;Ochtrup;0162/2874444;;ingoheitkamp1@gmail.com;B0235280000035365;Conway;Xyron 327 12G SX Eagle Herren;;;SC110637;
+LR-900378;;Sybille;Tobert;Arfetalstrasse 17;57319;Bad Berleburg;0170/4996456;;tobertsybille2@gmail.com;H109850000035416;Focus;Raven2 9.8;;;386309012;
+LR-900383;;Martin;Otto;Bruktererweg 15;48485;Neuenkirchen;05973/1234567;0171/1572694;motto04@gmx.de;P81170000036735;Kalkhoff;AGATTU 3.S ADV.R 28CO;;;A9J05089;
+LR-900387;;Sven;Waning;Seerose 91;48691;Vreden;01512/7070640;01512/7070640;svwaning@wolkenpower.de;B86190000037704;Gudereit;ET 9 Basic inkl Rahmenschloß;;;GE19020247;
+LR-900388;;Laszlo;Nemet;Rachenberg 17;59846;Sundern (Sauerland);02933/79115;01515/2881178;nemet@gmx.de;T132230000037996;Raleigh;Stoker 9;;;HS246240;
+LR-900390;;Nicole;Lehmann;Schlägelstr 2;45966;Gladbeck;02043/700097;0179/7925922;nicolebleinik@icloud.com;M0190520000039486;Specialized;Vado;;;WSBC002096300P;
+LR-900391;;Annette;Malbranche;Klosterberg 6;59823;Arnsberg;01590/2225821;;malbrancheannette@gmail.com;K229530000039503;FLYER;Gotour6 7.10;;;TFYZZGC20L4907359;
+LR-900393;;Baris;Talic;Gerberstr 2;59590;Geseke;02942/985678;01515/3374403;barisderelitalic@icloud.com;T0244030000040546;Kalkhoff;Endeavour 1B Move Lb Herren;;;HS291702;
+LR-900394;;Baris;Talic;Gerberstr 2;59590;Geseke;02942/985678;01515/3374403;barisderelitalic@icloud.com;T0244030000040548;Raleigh;Cardiff 7 R LB 400;;;HS291157;
+LR-900400;;Philipp;Dobrat;Kettelerstraße 6;48653;Coesfeld;02541/8947884;0174/5831657;pdobrat19@gmail.com;C0241870000043959;Pegasus;Solero;;;AA80651991;
+LR-900401;;Niklas;Ortmeier;Von-Galen-Str. 16;48477;Hörstel;0173/3860557;0173/3860557;niklasortmeier@web.de;H40520000044439;Bergamont;Horizon 7 Gent;;;BGM9C19G00666;
+LR-900403;;Wilhelm Josef;Daake;Dorfstraße 11A;58802;Balve;0175/5653944;;edith_daake@t-online.de;B169840000044860;Kalkhoff;Endeavour 3.S Lease;;;AV19736789;
+LR-900404;;Wilhelm Josef;Daake;Dorfstraße 11 A;58802;Balve;0175/5653944;;edith_daake@t-online.de;B169840000044867;Kalkhoff;Endeavour 3 S Lease;;;AV19737199;
+LR-900405;;Anita;Lepek;Am Bowengarten 30;45899;Gelsenkirchen;0209/898060;0171/6496479;anita-lepek@t-online.de;M0190520000044925;Riese und Müller;Charger3 GT vario HD;;;WRJ2CH3M4KD404920;
+LR-900406;;Hamid;Bouddounti;Amyastr. 34;52066;Aachen;0163/4906781;0163/4906781;hamboumysoons@gmail.com;G22560000045809;Bulls;Sonic Evo;;;A9H69203;
+LR-900409;;Christoph;Meisterjahn;Sebastianstraße 4;59846;Sundern (Sauerland);01512/4096149;;meisterjahn1@web.de;S107920000046229;GIANT;Explore E+1 Pros XL;;;E9EE09957;
+LR-900410;;Christoph;Meisterjahn;Sebastianstraße 4;59846;Sundern (Sauerland);01512/4096149;;meisterjahn1@web.de;S107920000046230;GIANT;Explore E+1 Pros M;;;EBEE138869;
+LR-900419;;Sebastian;Paszenda;Weissenburgerstraße 16;52068;Aachen;0162/8568543;;sebastian.paszenda@gmail.com;A0067330000048490;Cube;Reaction Hybrid SLT 625 29;;;WOW76202PSCS;
+LR-900423;;Emra;Abdulrahman;Elsenpaß 45;46395;Bocholt;0178/8185500;;mirsadkrasni9@gmail.com;A0205320000049243;Gazelle;Ultimate T10;;;GZ61279635;
+LR-900424;;Anna-Maria;Bauhus;Cappenberger Damm 48;59379;Selm;0176/47847148;;anni.bauhus@gmx.de;S0073530000050287;Stevens;Primera;;;S19TFKDBK0104;
+LR-900425;;Flamur;Ajgeraj;Hauptstraße 94;59846;Sundern (Sauerland);0151/41654107;;Ajgeraj1@outlook.com;T132230000022448;Stevens;E-Tremalzo;;;S20EMRDFK0241;
+LR-900428;;Christoph;Horstmann;Horstmersch 6;49545;Tecklenburg;0175/1662645;;horst483@web.de;K0032700000034837;Centurion;E-Fire Sport;;;WC8278583R;
+LR-900429;;Can;Tankir;Heidestraße 107;32257;Bünde;01515/7260195;;Can55955595@hotmail.com;H64820000040040;Riese und Müller;Charger 3 Mixte Vario;;;WRJ2CH3M4LD402646;
+LR-900430;Härterei Kirchhoff GmbH;Isa;Latifaj;An der Tumpe 15-17;58791;Werdohl;02392/140141;0170/8744475;il@haerterei-kirchhoff.de;H0211830000049087;Stevens;E-Sledge;;;S20EHHLEK2168;
+LR-900441;;Stefanie;Palko;Poststraße 17;59469;Ense;;0160/6507814;Stefaniepalko@web.de ;I95480000019669;Cube;Reaction Hybrid Pro 500;;;WOW71255PSFR;
+LR-900443;;Frank;Passlick;Laurenzstr. 99;48607;Ochtrup;0174/8784444;;frank.passlick@gmail.com;M0212110000020213;Cube;Town Sport Hybrid PRO;;;WOW59842XSGR;
+LR-900444;;Martin;Grolle;Postmeierweg 20;48477;Hörstel;0160/93941481;;martin-grolle@gmx.de;W88140000020830;Haibike;Sduro Trekking 6.0 Damen;;;AV18914187;
+LR-900447;;Mathias;Kaufmann;Westerwaldstraße 45;57299;Burbach;0176/32977887;;mathiaskaufmann43@yahoo.com;H57530000022684;FLYER;Upstreet 5;;;TFYZZUD20L4956027;
+LR-900448;;Jörg;Jochheim;Diemkerstr. 171;32139;Spenge;05225/8727338;;rosips@t-online.de;E0089340000027628;Kreidler;Eco 7;;;PDEHW07171;
+LR-900449;;Annette;Wagner;Bergstr. 48;49504;Lotte;0176/78248215;;wagnerannette66@gmail.com;G0244970000028088;Pegasus;Opero Da.28 Rh.55;;;AA81227413;
+LR-900450;Daniela Kanters-Perlitz Textilhandel;Daniela;Kanters-Perlitz;Walrafsgäßchen 10;41515;Grevenbroich;01575/6459579;01575/6459579;Danielaperlitz@gmail.com;V0252660000032614;Bianchi;Infinito XE Disc 105;;;WBK761249R;
+LR-900451;;Vitor;Capelo;Kettelerstr. 29a;48493;Wettringen;02557/4999884;´015172516250;vitorcapelo@hotmail.de;D0217400000026592;QWIC;MA8 Tour Belt;;;EFY9305947;
+LR-900579;;Petra;Rothenstein;Annastraße 9;59755;Arnsberg;01578/4545072;;petrarothenstein44@gmail.com;K229530000047392;Bergamont;E-Horizon 7;;;BGM9C19J03383;
+LR-900582;;Lina;Meyer-Schlottoff;Niederdorf 28;49545;Tecklenburg;05451/02557;01516/4688818;kontakt@dr-westerberg.de;P229390000048743;Stevens;Soprem Pro;;;S20CDEKJK0335;
+LR-900584;;Ramazan;Yüce;Schwanenweg 5;57368;Lennestadt;0175/2316723;;ayten-ersan@t-online.de;F0244140000049641;KTM;Macina Team 292;;;KT19217715;
+LR-900588;;Iris;Josephski;Am Wäschebach 17;57271;Hilchenbach;0175/3896997;0175/3896997;iris.bloecher@gmx.net;S0194610000050206;Conway;Cairon S227 SE 500;;;20CAS227100383;
+LR-900593;;Carina;Baumhögger;Bodelschwingh Str. 7;33154;Salzkotten;05258/7668;;carina.baumhoegger@gmx.de;O0188390000050840;Bergamont;E-Horizont Sport;;;BGM7K21G01045;
+LR-900594;Martin Weiß Betreuungsbüro;Martin;Weiß;Hasenwinkel 2;47918;Tönisvorst;0176/80693324;;Kontakt@betreuungen-weiss.de;B0283110000051006;Trenoli;UrbanoNexus 7;;;GE17091106;
+LR-900597;;Andreas;Unland;Thüringerstraße 3;46395;Bocholt;02871/2948067;;andreasunland@t-online.de;M292370000051631;Gudereit;ET-9 LTD Gates;;;GE18090154;
+LR-900603;;Karsten-Marcel;Wüllner;Weher Straße 56;32369;Rahden;0160/97978407;;karsten.wuellner31@gmail.com;H138470000053493;Conway;ts 300;;;LY79037979;
+LR-900604;;Alexandra;Juette;Dreslinger Str. 4;51580;Reichshof;01515/6581967;;alexandra.juette72@gmail.com;A64540000053564;Focus;Aventura 6.7;;;A9M41451;
+LR-900608;;Christian;Busch;Nelkenstr. 8;41363;Jüchen;02164/7024452;;cbusch@outlook.de;S0059340000053953;KTM;Macina Ultimate Pro;;;KS91200120;
+LR-900627;;Jens;Schmitt;Wichernstraße 21;57250;Netphen;01514/6419575;;info@kb-siegerland.de;K0265200000056491;Victoria;eAdventure 8.9;;;SW190949029;
+LR-900628;;Ralf;Willamowski;Sandweg 21;45701;Herten;0209/1773255;;technik@elisabeth-krankenhaus.de;M0190520000056508;Husqvarna Bicycles;GT3;;;AV19535388;
+LR-900630;;Vivien;Kauffert;Sternstr. 10;42275;Wuppertal;01577/5053411;;vivien.kauffert@gmail.com;K0093010000056775;Raleigh;Kent XXL;;;AV19411363;
+LR-900632;;Iris;Josephski;Am Wäschebach 17;57271;Hilchenbach;0175/3896997;0175/3896997;iris.bloecher@gmx.net;S0194610000057626;Conway;CAIRON S227 SE;;;20CAS227100382;
+LR-900633;;Andre;Pillekamp;Unterer Hilding 1;46562;Voerde (Niederrhein);0209/97267930;01578/1921862;hansvollautomatik@gmail.com;M0207340000057633;KTM;ZEG Cento 5 US;;;KS200100966;
+LR-900634;;Philip;Schröer;Rektor-Kuper-Straße 27;48432;Rheine;0177/2432141;;michelleschmitz1305@icloud.com;E0060740000058688;Raleigh;Kent 10 Tr.;;;AV19963899;
+LR-900638;;Deepa;Brenk;Rheinbacher Str 38;53919;Weilerswist;0173/2997912;;w.warnecke@brenk-steuerberatung.de;B0302330000059383;Cube;Cross Race C:62 SLT (104643);;;WOW38980PSER;
+LR-900641;;Olaf;Klein;Pohlhauser Str. 84;42929;Wermelskirchen;0171/4181688;0171/4181688;a.o.klein@t-online.de;H0315870000060005;Hercules;Futura Sport;;;HER1715412;
+LR-900647;;Olaf;Klein;Pohlhauser Str. 84;42929;Wermelskirchen;0171/4181688;0171/4181688;a.o.klein@t-online.de;H0315870000060951;Hercules;Roberta R7;;;her1906057;
+LR-900651;;Marienhospital Gelsenkirchen;GmbH;Virchowstr. 135;45886;Gelsenkirchen;02091/724608;;j.fessenbecker@st-augustinus.eu;M0190520000046211;Kalkhoff;Image 5.B Belt;;;AV19C66039;
+LR-900654;;Christian;Autengrube;Elpidiusstr. 23;46354;Südlohn;0176/70741329;;chrisauti@gmail.com;R91770000048995;Bulls;Lacuba Evo 10;;;AA90640253;
+LR-900655;;Sebastian;Altepost;Finkenweg 14;48477;Hörstel;05454/180173;0151-58057421;Sebastian.Altepost@beermann.de;B83960000040699;Rabeneick;TC-E Comfort;;;PBEGK58405;
+LR-900656;;Sebastian;Altepost;Finkenweg 14;48477;Hörstel;05454/180173;0151-58057421;Sebastian.Altepost@beermann.de;B83960000040698;Rabeneick;TX-E Urban;;;PBEHM76021;
+LR-900662;;Karsten-Marcel;Wüllner;Weher Str 56;32369;Rahden;0160/97978407;0160/97978407;karsten.wuellner31@gmail.com;H138470000052978;Univega;Alpina Street;;;RN2701 44 BHS273765;
+LR-900663;;Rafael;Heseler;Hallenbergstr. 7;58840;Plettenberg;;;rheseler@web.de;C0291060000054636;Conway;EMF 327 Herren;;;AS17090187;
+LR-900570;Sozial-Holding der Stadt MG GmbH;Anna;Friedrich;August-Monforts-Str. 12/16;41065;Mönchengladbach;02161/68664217;;D.Rath@sozial-holding.de;gAnQ9A;KTM;Macina Chacana LFC Pro;;;AV20804074;
+LR-900571;Sozial-Holding der Stadt MG GmbH;Ralf;Müller;August-Monforts-Str. 12/16;41065;Mönchengladbach;02161/68664217;;D.Rath@sozial-holding.de;mDwKYx;Merida;Espresso EP 8 Edition;;;WC8037083S;
+LR-900573;;Sabrina;Brautmeier;Zur Lohne 11;33178;Borchen;5251399656;;sabina.brautmeier@gmx.de;gdAKxB;Pegasus;Premio Evo 10 Un28;;;AA90910050;
+LR-900569;;Christian;Winter;Krebsstraße 1;48612;Horstmar;;15752943714;zeit5547@gmail.com;BRPb4W;Green's;Bromley;;;201106338;
+LR-900666;;Volker;Krombach;Seelbacher Weg 85;57072;Siegen;0160/93116751;0160/93116751;volker.krombach@freenet.de;T127740000033879;Scott;eRide 940 Strike;;;GBEA23980;
+LR-900667;;Jaqueline;Braun;Lohmühlenstraße 26;52152;Simmerath;0176/31151001;;jaqueline_1307@web.de;E0093940000034799;Riese und Müller;Swing vario urban;;;RM201821955;
+LR-900668;;Vikram;Kaliya;Apothekerstraße 53;59755;Arnsberg;0179/4353026;;sunny.kaliya@gmail.com;S107920000035684;Cube;Stereo Hybrid 120 Pro 625;;;WOW51074PSCS;
+LR-900669;;Janis;Scheuvens;Borheggenstraße 8;52538;Gangelt;0176/20413405;;scheuvens-janis@web.de;A89970000036547;Conway;TS 200 500Wh;;;20CAT200513154;
+LR-900673;;Kathrin;Sela;Clemens Hagemann Straße 5a;48308;Senden;0171/8151991;;sippa@live.de;C0241630000040485;Raleigh;Kingston 8 R XXL comfort;;;AV19630368;

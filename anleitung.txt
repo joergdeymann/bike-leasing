@@ -1,0 +1,70 @@
+0 Anleitung
+1) Import der Daten von Rebike
+	1. öffne die Rebike Tabelle mit Excel
+	2. Wähle Datei-Speichern unter aus und passe die Endung als CSV-UTF8 an.
+	3. Speichern
+	4. Öffne die Seite: https://www.all-transport24.de/bike/mail.php
+	5. Wähle "Import von Rebike" aus
+	6. Button "Durchsuchen" drücken und die erstellte CSV Datei auswählen
+    7. Button "Import" drücken
+	(Kann man vielleicht Rebike nahc einer Schnittstelle fragen, 
+	die daten direkt von der Seite zu laden ohne Exceltabelle ?)
+	
+2a) Liste für die Route erstellen
+ 	1. Wähle Punkt 2 "Erstelle Liste für die Route"
+	2. Hier kannst du eistellen ob du auch noch vorher importierte Rebike Daten verarbeiten willst.
+	   Gib dazu einen Datumsbereich ein wann du die Daten importiert hast.
+	   wenn du schon eine Abholreihenfolge festgelegt hast, kannst du diese ignorieren,
+	   in dem der Haken bei "nur neu erfasste Räder" setzt.
+	3. mit dem Button "Ansicht", kannst du dir eine Liste mit Daten für den Routenplaner ansehen
+	4. mit dem Button "CSV" erstellst du eine Liste für den Routenplaner Multiroute.
+	   (info an mich: noch die ReBikeID exportieren)
+	5. Jetzt öffnest du die Excel und importierts die CSV mit folgenden Schritten
+    ##### weiteres müssen wir hier zusammen machen ####
+         - Datei
+		 - Importieren als UTF-8
+		Dann speicherst du diese als irgendein Excel-Format.
+
+2b)	Liste in Multiroute importieren
+	1. Öffne die Seite https://www.multiroute.de/
+	2. Haltepunkte in überwiegend "Deutschland"
+	3. "Durchsuchen" und die gespeicherte Excel Datei öffnen
+	4. Wähle die entsperechenden Überschriften aus, 
+		die email ist der Überschrift "Beschreibung" zuzuordnen
+		die BikeID ist dann Zusatz1 zuzuordnen		
+		PLZ und Ort und Straße sind die anderen Felder
+	5. Wähle Start
+	
+    ##### weiteres müssen wir hier zusammen machen ####
+	
+3) Import der Multiroute Daten
+	1. öffne die erstellte Datei mit Excel
+	2. Speicher sie mit als CSV UTF-8 Datei.
+	3. Öffne den Punkt 3 Importiere die Route : https://www.all-transport24.de/bike/import_route.php
+	4. Drücke den Button "Durchsuchen" und wähle die CSV von Multiroute aus
+	5. Wähle das Datum des Rebike Imports aus und drücke auf "Import"
+
+4) Terminplanung
+	1. Wähle das Datum des Rebike Imports aus und drücke auf "Anzeigen"	
+	   Falls Zeitplanung der Abholung schon in Multiroute geplant wurde sind die Daten 
+	   Fett und mit * gekennzeichnet
+	   Hier braucht dann nichts mehr gemacht zu werden.
+	2. Ansonsten kann man hier maximale anzahl der Fahrräder pro Tag usw. angeben
+	   und diese dann mit "Anzeigen" ansehen
+	   Wenn man dann damit zufrieden ist, drückt man den Button "Einstellungen Übernehmen".
+	   
+	   
+	   
+	2. 
+
+
+	
+	
+ 
+
+		
+	
+	
+	   der bisher Importierten  
+	
+	

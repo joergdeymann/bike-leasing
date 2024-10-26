@@ -1,0 +1,5 @@
+SET SQL_MODE='ALLOW_INVALID_DATES';
+update rad_abholung set rueckgabetermin="0000-00-00 00:00:00" where recnum='48';
+update rad_abholung set rueckgabetermin="0000-00-00 00:00:00" where rueckgabetermin != "0000-00-00 00:00:00" ;
+
+
